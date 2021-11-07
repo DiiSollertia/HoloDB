@@ -1,0 +1,71 @@
+member_id,name,status,debut_gen,debut_date,grad_date,yt_channel_id,twitter_id,spotify_id
+1,Tokino Sora,ACTIVE,JP0,2017-09-07,NULL,UCp6993wxpyDPHUpavwDFqgg,tokino_sora,2g9gjJayRURjomDGRLNaZR
+2,Roboco,ACTIVE,JP0,2018-03-04,NULL,UCDqI2jOz0weumE8s7paEk6g,robocosan,1JSf6ODLyqPpYQAHN7S1Th
+3,Hoshimachi Suisei,ACTIVE,Indie,2018-03-22,NULL,UC5CwaMl1eIgY8h02uZw7u8A,suisei_hosimati,726WiFmWkohzodUxK3XjHX
+4,Yozora Mel,ACTIVE,JP1,2018-06-01,NULL,UCD8HOxPs4Xvsm8H0ZxXGiBw,yozoramel,4Hv8fxKG4YGfv5ezI6o4Xx
+5,Shirakami Fubuki,ACTIVE,JP1,2018-06-01,NULL,UCdn5BQ06XqgXoAxIhbqw5Rg,shirakamifubuki,2GR0oaCTOgws9PfuheMw0k
+6,Natsuiro Matsuri,ACTIVE,JP1,2018-06-01,NULL,UCQ0UDLQCjY0rmuxCDE38FGg,natsuiromatsuri,2Q4XylLbowI36GGLh487Fp
+7,Aki Rosenthal,ACTIVE,JP1,2018-06-01,NULL,UCFTLzh12_nrtzqBPsTCqenA,akirosenthal,2ANytjXP6otAgDNUwWeym5
+8,Akai Haato,ACTIVE,JP1,2018-06-02,NULL,UC1CfXB_kRs3C-zaeTG3oGyg,akaihaato,1d7xr1J9jeQpwTOVCc07WU
+9,Hitomi Chris,GRAD,JP1,2018-06-03,2018-06-26,UCbfQf5D9v8XBp7_sQsh5rfQ,hitomikurisu,NULL
+10,Sakura Miko,ACTIVE,Cover Corp,2018-08-01,NULL,UC-hM6YJuNYVAmUWxeIr9FeA,sakuramiko35,6YFKPqnL4YtX9jJmj5zkzv
+11,Minato Aqua,ACTIVE,JP2,2018-08-08,NULL,UC1opHUrw8rvnsadT-iGp7Cg,minatoaqua,6GHr4rGFHGRUuzuCuxJA0f
+12,Murasaki Shion,ACTIVE,JP2,2018-08-17,NULL,UCXTpFs_3PqI41qX2d9tL2Rw,murasakishionch,5Th82IWKMPF6PpvsBl06Qj
+13,Nakiri Ayame,ACTIVE,JP2,2018-09-03,NULL,UC7fk0CB07ly8oSl0aqKkqFg,nakiriayame,1dMlek4eXZns9FyjBcvrF8
+14,Yuzuki Choco,ACTIVE,JP2,2018-09-04,NULL,UC1suqwovbL1kzsoaZgFZLKg,yuzukichococh,7f88eYygFslxqmdh0mDWXn
+15,Oozora Subaru,ACTIVE,JP2,2018-09-16,NULL,UCvzGlP9oQwU--Y0r9id_jnA,oozorasubaru,1gSUbOpSpv15bOewxQ64eB
+16,AZKi,ACTIVE,INNK Music,2018-11-15,NULL,UC0TXe_LYZ4scaW2XMyi5_kw,AZKi_VDiVA,0HX3yJ7THlqC9drRqhOkgo
+17,Ookami Mio,ACTIVE,Gamers,2018-12-07,NULL,UCp-5t9SrOQwXMU7iIjQfARg,ookamimio,539Z6h1XU1IripGR4rTtbz
+18,Nekomata Okayu,ACTIVE,Gamers,2019-04-06,NULL,UCvaTdHTWBGv3MKj3KVqJVCw,nekomataokayu,28lO8lCOqFvDB5la90xKUW
+19,Inugami Korone,ACTIVE,Gamers,2019-04-13,NULL,UChAnqc_AY5_I3Px5dig3X1Q,inugamikorone,6EFbQU0BE4wGLdqBjey64b
+20,Hanasaki Miyabi,ACTIVE,STARS1,2019-06-08,NULL,UC6t3-_N8A6ME1JShZHHqOMw,miyabihanasaki,NULL
+21,Kagami Kira,GRAD,STARS1,2019-06-09,2020-11-30,UCEzsociuFqVwgZuMaZqaCsg,kagamikirach,NULL
+22,Kanade Izuru,ACTIVE,STARS1,2019-06-22,NULL,UCZgOv3YDEs-ZnZWDYVwJdmA,kanadeizuru,0asG3iGnDzxlo0S4O595Td
+23,Usada Pekora,ACTIVE,JP3,2019-07-17,NULL,UC1DCedRgGHBdm81E1llLhOQ,usadapekora,4JlcSp9i5LcilRSMqaVimt
+24,Uruha Rushia,ACTIVE,JP3,2019-07-18,NULL,UCl_gCybOJRIgOXw6Qb4qJzQ,uruharushia,70qI9Ih5VXZMuCsEVhy22C
+25,Shiranui Flare,ACTIVE,JP3,2019-08-07,NULL,UCvInZx9h3jC2JzsIzoOebWg,shiranuiflare,0JHnoazUTZHoJMqRwsCDNT
+26,Shirogane Noel,ACTIVE,JP3,2019-08-08,NULL,UCdyqAaZDKHXg4Ahi7VENThQ,shiroganenoel,58dqdL1HubAnJ1QYj5CQCs
+27,Houshou Marine,ACTIVE,JP3,2019-08-11,NULL,UCCzUftO8KOVkV4wQG1vkUvg,houshoumarine,5XaBNKQo65yYcjNA8wQPOk
+28,Yakushiji Suzaku,GRAD,STARS1,2019-09-07,2020-03-06,UCGKgJ4MtJ1coi6tWJUfnsQA,YakushijiSuzaku,NULL
+29,Arurandeisu,ACTIVE,STARS1,2019-09-08,NULL,UCKeAhJvy8zgXWbh9duVjIaQ,arurandeisu,NULL
+30,Yogiri,GRAD,CH1,2019-09-27,2020-12-20,NULL,_YOGiRi_owo,NULL
+31,Rikkaroid,ACTIVE,STARS1,2019-10-20,NULL,UC9mf_ZVpouoILRY9NUIaK-w,rikkaroid,0nEKA86Og8b1gll9dc0tS9
+32,Civia,GRAD,CH1,2019-11-01,2020-11-18,UCgNVXGlZIFK96XdEY20sVjg,_Civia,NULL
+33,Astel Leda,ACTIVE,STARS2,2019-12-07,NULL,UCNVEsYbiZjH5QLmGeSgTSzg,astelleda,NULL
+34,Kishido Temma,ACTIVE,STARS2,2019-12-14,NULL,UCGNI4MENvnsymYjKiZwv9eg,kishidotemma,NULL
+35,Yukoku Roberu,ACTIVE,STARS2,2019-12-24,NULL,UCANDOlYTJT7N5jlRC3zfzVA,yukokuroberu,NULL
+36,Amane Kanata,ACTIVE,JP4,2019-12-27,NULL,UCZlDXzGoo7d44bwdNObFacg,amanekanatach,3xYcccivSuAU13ZHypWoNW
+37,Kiryu Coco,GRAD,JP4,2019-12-28,2021-07-01,UCS9uQI-jC3DE0L4IpXyvr6w,kiryucoco,6UVwgcSAKl0SZ9plRC59VQ
+38,Tsunomaki Watame,ACTIVE,JP4,2019-12-29,NULL,UCqm3BQLlJfvkTsX_hvm0UmA,tsunomakiwatame,68609MOnEU86kVyMf26JnM
+39,Tokoyami Towa,ACTIVE,JP4,2020-01-03,NULL,UC1uv2Oq6kNxgATlCiez59hw,tokoyamitowa,0XZGQi9wNsE1z9L0AWhC82
+40,Himemori Luna,ACTIVE,JP4,2020-01-04,NULL,UCa9Y57gfeY0Zro_noHRVrnw,himemoriluna,1uLQjE6Ti5jie0J4PWXzyO
+41,Spade Echo,GRAD,CH1,2020-01-30,2020-11-21,NULL,SpadeEcho,NULL
+42,Doris,GRAD,CH2,2020-04-03,2020-12-05,NULL,Doris_Hololive,NULL
+43,Rosalyn,GRAD,CH2,2020-04-05,2020-12-27,NULL,Rosalyn_holoCN,NULL
+44,Ayunda Risu,ACTIVE,ID1,2020-04-10,NULL,UCOyYb1c43VlX9rc_lT6NKQw,ayunda_risu,NULL
+45,Moona Hoshinova,ACTIVE,ID1,2020-04-11,NULL,UCP0BspO_AMEe3aQqqpo89Dg,moonahoshinova,2Iss9rGmxvoEfVigargjTH
+46,Artia,GRAD,CH2,2020-04-11,2020-11-19,NULL,Artia_OW,NULL
+47,Airani Iofifteen,ACTIVE,ID1,2020-04-12,NULL,UCAoy6rzhSf4ydcYjJw3WoVg,airaniiofifteen,NULL
+48,Tsukishita Kaoru,GRAD,STARS3,2020-04-29,2020-07-28,UCsehvfwaWF6nWuFnXI0AqZQ,tsukishitakaoru,NULL
+49,Kageyama Shien,ACTIVE,STARS3,2020-04-30,NULL,UChSvpZYRPh0FvG4SJGSga3g,kageyamashien,NULL
+50,Aragami Oga,ACTIVE,STARS3,2020-05-01,NULL,UCwL7dgTxKo8Y4RFIKWaf8gA,aragamioga,NULL
+51,Yukihana Lamy,ACTIVE,JP5,2020-08-12,NULL,UCFKOVgVbGmX65RxO3EtH3iw,yukihanalamy,NULL
+52,Momosuzu Nene,ACTIVE,JP5,2020-08-13,NULL,UCAWSyEs_Io8MtpY3m-zqILA,momosuzunene,3KixQ8ZB7p1AXDaRA62SpX
+53,Shishiro Botan,ACTIVE,JP5,2020-08-14,NULL,UCUKD-uaobj9jiqB-VXt71mA,shishirobotan,6SJuFGUxkapaefayFdBwWz
+54,Mano Aloe,GRAD,JP5,2020-08-15,2020-08-31,UCgZuwn-O7Szh9cAgHqJ6vjw,manoaloe,NULL
+55,Omaru Polka,ACTIVE,JP5,2020-08-16,NULL,UCK9V2B22uJYu3N7eR_BT9QA,omarupolka,4lnAamuhZv4tmgOMryoB73
+56,Mori Calliope,ACTIVE,Myth,2020-09-12,NULL,UCL_qhgtOy0dy1Agp8vkySQg,moricalliope,1PhE6rv0146ZTQosoPDjk8
+57,Takanashi Kiara,ACTIVE,Myth,2020-09-12,NULL,UCHsx4Hqa-1ORjQTh9TYDhww,takanashikiara,6UCFRdg4ySMWj6O4QRKyZs
+58,Ninomae Ina'nis,ACTIVE,Myth,2020-09-13,NULL,UCMwGHR0BTZuLsmjY_NT5Pwg,ninomaeinanis,3iPvwu8p75fYRa0V4wi8gN
+59,Gawr Gura,ACTIVE,Myth,2020-09-13,NULL,UCoSrY_IQQVpmIRZ9Xf-y93g,gawrgura,1Spm887PTszc2AoNYpoCld
+60,Watson Amelia,ACTIVE,Myth,2020-09-13,NULL,UCyl1z3jo3XHR1riLFKG5UAg,watsonameliaEN,0R8gPf3buI10EYWrB7FBlm
+61,Kureiji Ollie,ACTIVE,ID2,2020-12-04,NULL,UCYz_5n-uDuChHtLo7My1HnQ,kureijiollie,NULL
+62,Anya Melfissa,ACTIVE,ID2,2020-12-05,NULL,UC727SQYUvx5pDDGQpTICNWg,anyamelfissa,NULL
+63,Pavolia Reine,ACTIVE,ID2,2020-12-06,NULL,UChgTyjG-pdNvxxhdsXfHQ5Q,pavoliareine,44udMKGBm7IJxh63aPv0cj
+64,IRyS,ACTIVE,HOPE,2021-07-11,NULL,UC8rcEBzJSleTkf_-agPM20g,irys_en,7y1hO3QeftnOJmWCbzeZav
+65,Tsukumo Sana,ACTIVE,Council,2021-08-22,NULL,UCsUj0dszADCGbF3gNrQEuSQ,tsukumosana,NULL
+66,Ceres Fauna,ACTIVE,Council,2021-08-22,NULL,UCO_aKKYxn4tvrqPjcTzZ6EQ,ceresfauna,NULL
+67,Ouro Kronii,ACTIVE,Council,2021-08-22,NULL,UCmbs8T6MWqUHP1tIQvSgKrg,ourokronii,NULL
+68,Nanashi Mumei,ACTIVE,Council,2021-08-22,NULL,UC3n5uGu18FoCy23ggWWp8tA,nanashimumei_en,NULL
+69,Hakos Baelz,ACTIVE,Council,2021-08-22,NULL,UCgmPnx-EEeOrZSg5Tiw7ZRQ,hakosbaelz,NULL
+70,Omegaα,ACTIVE,Council,NULL,NULL,UCKYyiJwNg2nV7hM86U5_wvw,omegaalpha_en,NULL
