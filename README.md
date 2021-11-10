@@ -3,12 +3,18 @@ A relational database of Hololive talent focused on organizing published music. 
 
 ## To do
 SQL DB Project;
+
 ERD;
+
 Google Sheets with readability prioritized;
+
 CSVs for original music published on YouTube and Spotify;
+
 Try to source for privated/deleted/otherwise commonly unavailable original music;
+
 Create a by year compilation video of original music for documentational and promotional purposes;
+
 Provide published Google Sheets link for accessability
 
 ## Completed
-MEMEBERS.csv - Easily acessible CSV containing basic information of hololive members
+MEMBERS.csv - Easily acessible CSV containing basic information of hololive members
