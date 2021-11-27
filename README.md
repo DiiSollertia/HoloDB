@@ -18,3 +18,5 @@ Provide published Google Sheets link for accessability
 
 ## Completed
 MEMBERS.csv - Easily acessible CSV containing basic information of hololive members
+
+GROUPS.csv - Easily acessible CSV containing basic information of hololive groups with separate channels
