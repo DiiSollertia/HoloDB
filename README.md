@@ -17,6 +17,8 @@ Create a by year compilation video of original music for documentational and pro
 Provide published Google Sheets link for accessability
 
 ## Completed
-MEMBERS.csv - Easily acessible CSV containing basic information of hololive members
+MEMBERS.csv - Easily accessible CSV containing basic information of hololive members
 
-GROUPS.csv - Easily acessible CSV containing basic information of hololive groups with separate channels
+GROUPS.csv - Easily accessible CSV containing basic information of hololive groups with separate channels
+
+ALBUMS.csv - Easily accessible CSV containing information on albums featuring Hololive talent
