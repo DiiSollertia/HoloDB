@@ -1,6 +1,6 @@
 member_id,name,status,debut_gen,debut_date,grad_date,yt_channel_id,yt_topic_id,twitter_id,spotify_id,add_notes
 1,Tokino Sora,ACTIVE,JP0,2017-09-07,NULL,UCp6993wxpyDPHUpavwDFqgg,UCX1VP45sH-XFxNDzXbMeEBg,tokino_sora,2g9gjJayRURjomDGRLNaZR,Victor Entertainment spotify_id: 5m1c9buGEkCMKQRhjLfueh
-2,Roboco,ACTIVE,JP0,2018-03-04,NULL,UCDqI2jOz0weumE8s7paEk6g,UCxzSeX4vGLeuBNPkgsB9ALQ,robocosan,1JSf6ODLyqPpYQAHN7S1Th,TBD spotify_id: 2woXHHEgr1jFvWQldjFJwp
+2,Roboco,ACTIVE,JP0,2018-03-04,NULL,UCDqI2jOz0weumE8s7paEk6g,UCxzSeX4vGLeuBNPkgsB9ALQ,robocosan,1JSf6ODLyqPpYQAHN7S1Th,USAGI Pro spotify_id: 2woXHHEgr1jFvWQldjFJwp
 3,Hoshimachi Suisei,ACTIVE,Indie,2018-03-22,NULL,UC5CwaMl1eIgY8h02uZw7u8A,UCrzT1p8gn0hQTBeMA6e2YiA,suisei_hosimati,726WiFmWkohzodUxK3XjHX,NULL
 4,Yozora Mel,ACTIVE,JP1,2018-06-01,NULL,UCD8HOxPs4Xvsm8H0ZxXGiBw,UNDER VARIOUS ARTISTS,yozoramel,4Hv8fxKG4YGfv5ezI6o4Xx,NULL
 5,Shirakami Fubuki,ACTIVE,JP1,2018-06-01,NULL,UCdn5BQ06XqgXoAxIhbqw5Rg,NULL,shirakamifubuki,2GR0oaCTOgws9PfuheMw0k,NULL
@@ -8,7 +8,7 @@ member_id,name,status,debut_gen,debut_date,grad_date,yt_channel_id,yt_topic_id,t
 7,Aki Rosenthal,ACTIVE,JP1,2018-06-01,NULL,UCFTLzh12_nrtzqBPsTCqenA,UCknTE243il4yFYDebRRC-Mw,akirosenthal,2ANytjXP6otAgDNUwWeym5,NULL
 8,Akai Haato,ACTIVE,JP1,2018-06-02,NULL,UC1CfXB_kRs3C-zaeTG3oGyg,NULL,akaihaato,1d7xr1J9jeQpwTOVCc07WU,NULL
 9,Hitomi Chris,GRAD,JP1,2018-06-03,2018-06-26,UCbfQf5D9v8XBp7_sQsh5rfQ,NULL,hitomikurisu,NULL,NULL
-10,Sakura Miko,ACTIVE,Cover Corp,2018-08-01,NULL,UC-hM6YJuNYVAmUWxeIr9FeA,UCv_ebbvZb7elf2aLI-QF7Tw,sakuramiko35,6YFKPqnL4YtX9jJmj5zkzv,NULL
+10,Sakura Miko,ACTIVE,Cover Corp,2018-08-01,NULL,UC-hM6YJuNYVAmUWxeIr9FeA,UCv_ebbvZb7elf2aLI-QF7Tw,sakuramiko35,6YFKPqnL4YtX9jJmj5zkzv,GIGA yt_topic_id: UC8wc4iPSIVBIctZa5tQ961g
 11,Minato Aqua,ACTIVE,JP2,2018-08-08,NULL,UC1opHUrw8rvnsadT-iGp7Cg,UCrt_gZvJvAB23gDHjW4hMDA,minatoaqua,6GHr4rGFHGRUuzuCuxJA0f,NULL
 12,Murasaki Shion,ACTIVE,JP2,2018-08-17,NULL,UCXTpFs_3PqI41qX2d9tL2Rw,UNDER VARIOUS ARTISTS,murasakishionch,5Th82IWKMPF6PpvsBl06Qj,NULL
 13,Nakiri Ayame,ACTIVE,JP2,2018-09-03,NULL,UC7fk0CB07ly8oSl0aqKkqFg,UNDER VARIOUS ARTISTS,nakiriayame,1dMlek4eXZns9FyjBcvrF8,NULL
@@ -25,7 +25,7 @@ member_id,name,status,debut_gen,debut_date,grad_date,yt_channel_id,yt_topic_id,t
 24,Uruha Rushia,ACTIVE,Fantasy,2019-07-18,NULL,UCl_gCybOJRIgOXw6Qb4qJzQ,UNDER VARIOUS ARTISTS,uruharushia,70qI9Ih5VXZMuCsEVhy22C,NULL
 25,Shiranui Flare,ACTIVE,Fantasy,2019-08-07,NULL,UCvInZx9h3jC2JzsIzoOebWg,UNDER VARIOUS ARTISTS,shiranuiflare,0JHnoazUTZHoJMqRwsCDNT,NULL
 26,Shirogane Noel,ACTIVE,Fantasy,2019-08-08,NULL,UCdyqAaZDKHXg4Ahi7VENThQ,UNDER VARIOUS ARTISTS,shiroganenoel,58dqdL1HubAnJ1QYj5CQCs,NULL
-27,Houshou Marine,ACTIVE,Fantasy,2019-08-11,NULL,UCCzUftO8KOVkV4wQG1vkUvg,UCXpaq8esihcv3tfMGR8hLyw,houshoumarine,5XaBNKQo65yYcjNA8wQPOk,NULL
+27,Houshou Marine,ACTIVE,Fantasy,2019-08-11,NULL,UCCzUftO8KOVkV4wQG1vkUvg,UCXpaq8esihcv3tfMGR8hLyw,houshoumarine,5XaBNKQo65yYcjNA8wQPOk,GIGA yt_topic_id: UCcqUSpGCgE57o7LGN9eoYew
 28,Yakushiji Suzaku,GRAD,STARS1,2019-09-07,2020-03-06,UCGKgJ4MtJ1coi6tWJUfnsQA,NULL,YakushijiSuzaku,NULL,NULL
 29,Arurandeisu,ACTIVE,STARS1,2019-09-08,NULL,UCKeAhJvy8zgXWbh9duVjIaQ,UNDER VARIOUS ARTISTS,arurandeisu,1ZccUqQX0uet5J22E4Erov,NULL
 30,Yogiri,GRAD,CH1,2019-09-27,2020-12-20,NULL,NULL,_YOGiRi_owo,NULL,NULL
@@ -36,7 +36,7 @@ member_id,name,status,debut_gen,debut_date,grad_date,yt_channel_id,yt_topic_id,t
 35,Yukoku Roberu,ACTIVE,SunTempo,2019-12-24,NULL,UCANDOlYTJT7N5jlRC3zfzVA,NULL,yukokuroberu,NULL,NULL
 36,Amane Kanata,ACTIVE,JP4,2019-12-27,NULL,UCZlDXzGoo7d44bwdNObFacg,UCPCiIrrrNJOKvi_5vr3G6PA,amanekanatach,3xYcccivSuAU13ZHypWoNW,NULL
 37,Kiryu Coco,GRAD,JP4,2019-12-28,2021-07-01,UCS9uQI-jC3DE0L4IpXyvr6w,NULL,kiryucoco,6UVwgcSAKl0SZ9plRC59VQ,NULL
-38,Tsunomaki Watame,ACTIVE,JP4,2019-12-29,NULL,UCqm3BQLlJfvkTsX_hvm0UmA,UCX2NCyh8ipCoydn1iKWyM_Q,tsunomakiwatame,68609MOnEU86kVyMf26JnM,NULL
+38,Tsunomaki Watame,ACTIVE,JP4,2019-12-29,NULL,UCqm3BQLlJfvkTsX_hvm0UmA,UCX2NCyh8ipCoydn1iKWyM_Q,tsunomakiwatame,68609MOnEU86kVyMf26JnM,RK Music yt_topic_id: UCS_9XZ5bmsfWIP2pFyDh8ZA
 39,Tokoyami Towa,ACTIVE,JP4,2020-01-03,NULL,UC1uv2Oq6kNxgATlCiez59hw,UCL6zH0jSt3-2MqzAZ1ciUAw,tokoyamitowa,0XZGQi9wNsE1z9L0AWhC82,NULL
 40,Himemori Luna,ACTIVE,JP4,2020-01-04,NULL,UCa9Y57gfeY0Zro_noHRVrnw,NULL,himemoriluna,1uLQjE6Ti5jie0J4PWXzyO,NULL
 41,Spade Echo,GRAD,CH1,2020-01-30,2020-11-21,NULL,NULL,SpadeEcho,NULL,NULL
