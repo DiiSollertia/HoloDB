@@ -4,7 +4,7 @@ A relational database of Hololive talent focused on organizing published music. 
 ## To do
 SQL DB Project;
 
-ERD;
+Actually including proper descriptions like a README should have for the files;
 
 Google Sheets with readability prioritized;
 
@@ -21,4 +21,8 @@ MEMBERS.csv - Easily accessible CSV containing basic information of hololive mem
 
 GROUPS.csv - Easily accessible CSV containing basic information of hololive groups with separate channels
 
+GROUP_MEMBER.csv - Easily accessible CSV representing the associative entity mapping MEMBERS and GROUPS
+
 ALBUMS.csv - Easily accessible CSV containing information on albums featuring Hololive talent
+
+ERD.png - Tentative snapshot of current entity relationship diagram
