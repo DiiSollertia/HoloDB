@@ -1,15 +1,15 @@
 id,name,status,debut_gen,debut_date,grad_date,yt_channel_id,yt_topic_id,spotify_id,twitter_id,add_notes
 1,Tokino Sora,1,JP0,2017-09-07,NULL,UCp6993wxpyDPHUpavwDFqgg,OFFICIAL ARTIST CHANNEL,2g9gjJayRURjomDGRLNaZR,tokino_sora,Victor Entertainment spotify_id: 5m1c9buGEkCMKQRhjLfueh; yt_topic_id: UCX1VP45sH-XFxNDzXbMeEBg
-2,Roboco,1,JP0,2018-03-04,NULL,UCDqI2jOz0weumE8s7paEk6g,UCxzSeX4vGLeuBNPkgsB9ALQ,1JSf6ODLyqPpYQAHN7S1Th,robocosan,USAGI Pro spotify_id: 2woXHHEgr1jFvWQldjFJwp
+2,Roboco,1,JP0,2018-03-04,NULL,UCDqI2jOz0weumE8s7paEk6g,UCxzSeX4vGLeuBNPkgsB9ALQ,1JSf6ODLyqPpYQAHN7S1Th,robocosan,TuneCore Japan spotify_id: 2woXHHEgr1jFvWQldjFJwp
 3,Hoshimachi Suisei,1,Indie,2018-03-22,NULL,UC5CwaMl1eIgY8h02uZw7u8A,UCrzT1p8gn0hQTBeMA6e2YiA,726WiFmWkohzodUxK3XjHX,suisei_hosimati,NULL
 4,Yozora Mel,1,JP1,2018-06-01,NULL,UCD8HOxPs4Xvsm8H0ZxXGiBw,UNDER VARIOUS ARTISTS,4Hv8fxKG4YGfv5ezI6o4Xx,yozoramel,NULL
-5,Shirakami Fubuki,1,JP1,2018-06-01,NULL,UCdn5BQ06XqgXoAxIhbqw5Rg,NULL,2GR0oaCTOgws9PfuheMw0k,shirakamifubuki,NULL
-6,Natsuiro Matsuri,1,JP1,2018-06-01,NULL,UCQ0UDLQCjY0rmuxCDE38FGg,UC941zySjR_pFTSQO3TvHO-A,2Q4XylLbowI36GGLh487Fp,natsuiromatsuri,NULL
+5,Shirakami Fubuki,1,JP1,2018-06-01,NULL,UCdn5BQ06XqgXoAxIhbqw5Rg,NULL,2GR0oaCTOgws9PfuheMw0k,shirakamifubuki,TuneCore Japan spotify_id: 4USMin8hDfV9aTwNrx07n7
+6,Natsuiro Matsuri,1,JP1,2018-06-01,NULL,UCQ0UDLQCjY0rmuxCDE38FGg,UC941zySjR_pFTSQO3TvHO-A,2Q4XylLbowI36GGLh487Fp,natsuiromatsuri,TuneCore Japan spotify_id: 1bBTQ4TbdtEsntovnW8SmU
 7,Aki Rosenthal,1,JP1,2018-06-01,NULL,UCFTLzh12_nrtzqBPsTCqenA,UCknTE243il4yFYDebRRC-Mw,2ANytjXP6otAgDNUwWeym5,akirosenthal,NULL
 8,Akai Haato,1,JP1,2018-06-02,NULL,UC1CfXB_kRs3C-zaeTG3oGyg,NULL,1d7xr1J9jeQpwTOVCc07WU,akaihaato,NULL
 9,Hitomi Chris,0,JP1,2018-06-03,2018-06-26,UCbfQf5D9v8XBp7_sQsh5rfQ,NULL,NULL,hitomikurisu,NULL
-10,Sakura Miko,1,Cover Corp,2018-08-01,NULL,UC-hM6YJuNYVAmUWxeIr9FeA,UCv_ebbvZb7elf2aLI-QF7Tw,6YFKPqnL4YtX9jJmj5zkzv,sakuramiko35,GIGA yt_topic_id: UC8wc4iPSIVBIctZa5tQ961g
-11,Minato Aqua,1,JP2,2018-08-08,NULL,UC1opHUrw8rvnsadT-iGp7Cg,UCrt_gZvJvAB23gDHjW4hMDA,6GHr4rGFHGRUuzuCuxJA0f,minatoaqua,NULL
+10,Sakura Miko,1,Cover Corp,2018-08-01,NULL,UC-hM6YJuNYVAmUWxeIr9FeA,UCv_ebbvZb7elf2aLI-QF7Tw,6YFKPqnL4YtX9jJmj5zkzv,sakuramiko35,GIGA yt_topic_id: UC8wc4iPSIVBIctZa5tQ961g; TuneCore Japan spotify_id: 2i4Dd0M1kOdj1t2hQBQPVm
+11,Minato Aqua,1,JP2,2018-08-08,NULL,UC1opHUrw8rvnsadT-iGp7Cg,UCrt_gZvJvAB23gDHjW4hMDA,6GHr4rGFHGRUuzuCuxJA0f,minatoaqua,Spice Love yt_topic_id: UCZNTB2NcO-eUbSt0bAN-Z0w
 12,Murasaki Shion,1,JP2,2018-08-17,NULL,UCXTpFs_3PqI41qX2d9tL2Rw,UNDER VARIOUS ARTISTS,5Th82IWKMPF6PpvsBl06Qj,murasakishionch,NULL
 13,Nakiri Ayame,1,JP2,2018-09-03,NULL,UC7fk0CB07ly8oSl0aqKkqFg,UNDER VARIOUS ARTISTS,1dMlek4eXZns9FyjBcvrF8,nakiriayame,NULL
 14,Yuzuki Choco,1,JP2,2018-09-04,NULL,UC1suqwovbL1kzsoaZgFZLKg,UNDER VARIOUS ARTISTS,7f88eYygFslxqmdh0mDWXn,yuzukichococh,NULL
@@ -25,7 +25,7 @@ id,name,status,debut_gen,debut_date,grad_date,yt_channel_id,yt_topic_id,spotify_
 24,Uruha Rushia,1,Fantasy,2019-07-18,NULL,UCl_gCybOJRIgOXw6Qb4qJzQ,UNDER VARIOUS ARTISTS,70qI9Ih5VXZMuCsEVhy22C,uruharushia,NULL
 25,Shiranui Flare,1,Fantasy,2019-08-07,NULL,UCvInZx9h3jC2JzsIzoOebWg,UNDER VARIOUS ARTISTS,0JHnoazUTZHoJMqRwsCDNT,shiranuiflare,NULL
 26,Shirogane Noel,1,Fantasy,2019-08-08,NULL,UCdyqAaZDKHXg4Ahi7VENThQ,UNDER VARIOUS ARTISTS,58dqdL1HubAnJ1QYj5CQCs,shiroganenoel,NULL
-27,Houshou Marine,1,Fantasy,2019-08-11,NULL,UCCzUftO8KOVkV4wQG1vkUvg,UCXpaq8esihcv3tfMGR8hLyw,5XaBNKQo65yYcjNA8wQPOk,houshoumarine,GIGA yt_topic_id: UCcqUSpGCgE57o7LGN9eoYew
+27,Houshou Marine,1,Fantasy,2019-08-11,NULL,UCCzUftO8KOVkV4wQG1vkUvg,UCXpaq8esihcv3tfMGR8hLyw,5XaBNKQo65yYcjNA8wQPOk,houshoumarine,GIGA yt_topic_id: UCcqUSpGCgE57o7LGN9eoYew; TuneCore Japan spotify_id: 4ArC16EPsPZKHUtdeGqHx7
 28,Yakushiji Suzaku,0,STARS1,2019-09-07,2020-03-06,UCGKgJ4MtJ1coi6tWJUfnsQA,NULL,NULL,YakushijiSuzaku,NULL
 29,Arurandeisu,1,STARS1,2019-09-08,NULL,UCKeAhJvy8zgXWbh9duVjIaQ,UNDER VARIOUS ARTISTS,1ZccUqQX0uet5J22E4Erov,arurandeisu,NULL
 30,Yogiri,0,CH1,2019-09-27,2020-12-20,NULL,NULL,NULL,_YOGiRi_owo,NULL
@@ -33,7 +33,7 @@ id,name,status,debut_gen,debut_date,grad_date,yt_channel_id,yt_topic_id,spotify_
 32,Civia,0,CH1,2019-11-01,2020-11-18,UCgNVXGlZIFK96XdEY20sVjg,NULL,NULL,_Civia,NULL
 33,Astel Leda,1,SunTempo,2019-12-07,NULL,UCNVEsYbiZjH5QLmGeSgTSzg,NULL,NULL,astelleda,NULL
 34,Kishido Temma,1,SunTempo,2019-12-14,NULL,UCGNI4MENvnsymYjKiZwv9eg,NULL,NULL,kishidotemma,NULL
-35,Yukoku Roberu,1,SunTempo,2019-12-24,NULL,UCANDOlYTJT7N5jlRC3zfzVA,NULL,NULL,yukokuroberu,NULL
+35,Yukoku Roberu,1,SunTempo,2019-12-24,NULL,UCANDOlYTJT7N5jlRC3zfzVA,NULL,49VPZqdN3rQ9oHtkHrIfNN,yukokuroberu,NULL
 36,Amane Kanata,1,JP4,2019-12-27,NULL,UCZlDXzGoo7d44bwdNObFacg,UCPCiIrrrNJOKvi_5vr3G6PA,3xYcccivSuAU13ZHypWoNW,amanekanatach,NULL
 37,Kiryu Coco,0,JP4,2019-12-28,2021-07-01,UCS9uQI-jC3DE0L4IpXyvr6w,NULL,6UVwgcSAKl0SZ9plRC59VQ,kiryucoco,NULL
 38,Tsunomaki Watame,1,JP4,2019-12-29,NULL,UCqm3BQLlJfvkTsX_hvm0UmA,UCX2NCyh8ipCoydn1iKWyM_Q,68609MOnEU86kVyMf26JnM,tsunomakiwatame,RK Music yt_topic_id: UCS_9XZ5bmsfWIP2pFyDh8ZA
@@ -47,8 +47,8 @@ id,name,status,debut_gen,debut_date,grad_date,yt_channel_id,yt_topic_id,spotify_
 46,Artia,0,CH2,2020-04-11,2020-11-19,NULL,NULL,NULL,Artia_OW,NULL
 47,Airani Iofifteen,1,ID1,2020-04-12,NULL,UCAoy6rzhSf4ydcYjJw3WoVg,NULL,NULL,airaniiofifteen,NULL
 48,Tsukishita Kaoru,0,TriNero,2020-04-29,2020-07-28,UCsehvfwaWF6nWuFnXI0AqZQ,NULL,NULL,tsukishitakaoru,NULL
-49,Kageyama Shien,1,TriNero,2020-04-30,NULL,UChSvpZYRPh0FvG4SJGSga3g,NULL,NULL,kageyamashien,NULL
-50,Aragami Oga,1,TriNero,2020-05-01,NULL,UCwL7dgTxKo8Y4RFIKWaf8gA,NULL,NULL,aragamioga,NULL
+49,Kageyama Shien,1,TriNero,2020-04-30,NULL,UChSvpZYRPh0FvG4SJGSga3g,NULL,6Pjq6W7ZAitxgTvUfa9gGk,kageyamashien,NULL
+50,Aragami Oga,1,TriNero,2020-05-01,NULL,UCwL7dgTxKo8Y4RFIKWaf8gA,NULL,51y5hQaDx7FLqH0Lcm6ubZ,aragamioga,NULL
 51,Yukihana Lamy,1,JP5,2020-08-12,NULL,UCFKOVgVbGmX65RxO3EtH3iw,UNDER VARIOUS ARTISTS,0qysjJL9vlQUriZJRQmcVE,yukihanalamy,NULL
 52,Momosuzu Nene,1,JP5,2020-08-13,NULL,UCAWSyEs_Io8MtpY3m-zqILA,UC1ayhcwJh-N7BJC9MHH-vMQ,3KixQ8ZB7p1AXDaRA62SpX,momosuzunene,NULL
 53,Shishiro Botan,1,JP5,2020-08-14,NULL,UCUKD-uaobj9jiqB-VXt71mA,UNDER VARIOUS ARTISTS,6SJuFGUxkapaefayFdBwWz,shishirobotan,NULL
