@@ -48,9 +48,11 @@ Associative entity to handle the many-to-many relationship between **GROUPS** an
 - CSVs for original music published on YouTube and Spotify;  
 - Try to source for privated/deleted/otherwise commonly unavailable original music;  
 - Create a by year compilation video of original music for documentational and promotional purposes;  
-- Provide published Google Sheets link for accessability
+- Provide published Google Sheets link for accessability; 
+- Create REST API to provide data 
 
 ## Special Thanks
-Cover Corp for creating hololive production  
-joexyz on Discord for advice on database schema  
+Cover Corp for creating hololive production 
+joexyz on Discord for advice on database schema 
+[Completely Unofficial Civia Archive Channel](https://www.youtube.com/channel/UCIrO3R_SG3TZhXvzMhOP7jw) for upload information on Civia videos
 All information was obtained from publically available resources, one of the more useful sites include the [official hololive production website](https://hololive.hololivepro.com/en/)
