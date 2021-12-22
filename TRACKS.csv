@@ -489,7 +489,7 @@ id,title,type,release_date,spotify_id,album_id,track_no
 488,BLACK SHOUT,1,2021-06-29,NULL,NULL,NULL
 489,Melody For You,0,2021-06-30,00CTwyWPLXYjc2bPfZ4ZLE,NULL,NULL
 490,Easter Carnival,1,2021-06-30,NULL,NULL,NULL
-491,Taiyou Shoujo,0,2021-07-02,5G7I2orIMZIWHr6xqZDssO,NULL,NULL
+491,Taiyou Shoujo,0,2021-07-02,5G7I2orIMZIWHr6xqZDssO,33,2
 492,SPARKS,0,2021-07-07,46scODShYFATHbLfLE0dr1,NULL,NULL
 493,Run,0,2021-07-09,57aMnr5dXnGcmBoWU5vXuN,NULL,NULL
 494,"sweet night, sweet time...",0,2021-07-09,NULL,NULL,NULL
@@ -497,7 +497,7 @@ id,title,type,release_date,spotify_id,album_id,track_no
 496,diorama,0,2021-07-11,2KURKfI9nOUQcQMCaSsxxx,28,2
 497,HERE COMES HOPE,0,2021-07-11,413waXVdYeWc1iqx68Dmpm,28,3
 498,diorama (attacca ver.),2,2021-07-11,2TgzdtprmqLiGKKfJ39ci2,28,4
-499,Sanji Juunihun,0,2021-07-14,26jQE4o0tM9onEoI4ylGOV,38,4
+499,Sanji Juunihun,0,2021-07-14,26jQE4o0tM9onEoI4ylGOV,39,4
 500,Youkoso! Sweet Carnival!,3,2021-07-15,NULL,NULL,NULL
 501,Absolute 5,1,2021-07-17,NULL,NULL,NULL
 502,HiHi High Tension！,0,2021-07-22,4B5Ut0G50k2ho8K7CM8ppC,NULL,NULL
@@ -574,22 +574,22 @@ id,title,type,release_date,spotify_id,album_id,track_no
 573,end of a life,0,2021-10-01,0i2THDeAhJma8FrUVy90No,NULL,NULL
 574,"Yoi no Yo, Yoi!",0,2021-10-02,2eTniD5ZO9ypU9tmFOYsqp,NULL,NULL
 575,Umapyoi Densetsu,1,2021-10-03,NULL,NULL,NULL
-576,Pleiades!,0,2021-10-07,5LxmEYp42yxYmdlsVhENzn,NULL,NULL
+576,Pleiades!,0,2021-10-07,5LxmEYp42yxYmdlsVhENzn,33,1
 577,Jin,1,2021-10-11,NULL,NULL,NULL
 578,madoromi,3,2021-10-13,7qNElz2cxQoxBz7wyDuBtz,NULL,NULL
 579,Fansa,1,2021-10-13,NULL,NULL,NULL
 580,The Last Frontier,0,2021-10-16,6z7xbqbj3fQHfxF8Wrpk7m,NULL,NULL
 581,okochama sensou,1,2021-10-17,NULL,NULL,NULL
-582,SANny Days,0,2021-10-20,NULL,33,1
-583,Landing on the Island!,0,2021-10-20,NULL,33,2
-584,Sunrise on the Horizon,0,2021-10-20,NULL,33,3
-585,1Room Aquarium,0,2021-10-20,NULL,33,4
-586,Domination! All the World Is an Ocean Sunset ver.,0,2021-10-20,NULL,33,5
+582,SANny Days,0,2021-10-20,NULL,34,1
+583,Landing on the Island!,0,2021-10-20,NULL,34,2
+584,Sunrise on the Horizon,0,2021-10-20,NULL,34,3
+585,1Room Aquarium,0,2021-10-20,NULL,34,4
+586,Domination! All the World Is an Ocean Sunset ver.,0,2021-10-20,NULL,34,5
 587,OUT OF FRAME,0,2021-10-21,2zWwBJBfxNr9bzaVBYerLZ,NULL,NULL
 588,Miracle Shopping ~Don Quijote theme~,3,2021-10-22,NULL,NULL,NULL
 589,Chew the Night Sky,0,2021-10-23,0VwKirv5aUyz8WlKJX0PSH,NULL,NULL
 590,Pastel Tea Time,0,2021-10-26,NULL,NULL,NULL
-591,CROWN,0,2021-10-29,7ywRRguljW6J3mAOj1EqjP,34,2
+591,CROWN,0,2021-10-29,7ywRRguljW6J3mAOj1EqjP,35,2
 592,Monster,1,2021-10-29,NULL,NULL,NULL
 593,Graveyard Shift,0,2021-11-01,6KhX2ctFvidBjIUPrKaGqs,NULL,NULL
 594,Myth or Treat,0,2021-11-01,NULL,NULL,NULL
@@ -597,40 +597,40 @@ id,title,type,release_date,spotify_id,album_id,track_no
 596,Envy Baby,1,2021-11-09,NULL,NULL,NULL
 597,nanawari enemy,0,2021-11-10,5rMqN3xMS33iVwwCO23GmZ,NULL,NULL
 598,Asuenokyokaisen,0,2021-11-15,2fq966WEfQ25My2d9ZPn7H,NULL,NULL
-599,aqua iro palette -TEKINA//remix-,2,2021-11-17,7wXLjDD9rcgd9QnfUA6MxV,35,1
-600,SHIJOSHUGI ADTRUCK -TEKINA//remix-,2,2021-11-17,4WAhqAm9Ca1NIeAH0lIwuQ,35,2
-601,NEXT COLOR PLANET -TEKINA//remix-,2,2021-11-17,3aCv3ejbGSuN0wpWux8PK6,35,3
+599,aqua iro palette -TEKINA//remix-,2,2021-11-17,7wXLjDD9rcgd9QnfUA6MxV,36,1
+600,SHIJOSHUGI ADTRUCK -TEKINA//remix-,2,2021-11-17,4WAhqAm9Ca1NIeAH0lIwuQ,36,2
+601,NEXT COLOR PLANET -TEKINA//remix-,2,2021-11-17,3aCv3ejbGSuN0wpWux8PK6,36,3
 602,W.I.M.,0,2021-11-20,2OWsOo4lF3zd6ADpKvjAPV,NULL,NULL
 603,Interact Fantasia,0,2021-11-21,2SFvqQLCgyxS74STmKSkW5,NULL,NULL
-604,HOT LIMIT,1,2021-11-24,6erbYJuCO9cgWQtmVmnE1t,36,1
-605,Romance no Kamisama,1,2021-11-24,7J1iGMSyRru4leMjl8cVAp,36,2
-606,Fansa,1,2021-11-24,0j1LIBSa98LtNCUatXZqQr,36,3
-607,MASAYUME CHASING,1,2021-11-24,6SZPZv5bICgtQBKNULY9Ig,36,4
-608,Kaibutsu,1,2021-11-24,589x2AYey2vCTRKd7Bkjee,36,5
-609,Android Girl,1,2021-11-24,0EIzl1b8M7wDCD64B48NCb,36,6
-610,God knows...,1,2021-11-24,1cYNzkhOz19uDJcWzitLbA,36,7
-611,Butterfly,1,2021-11-24,68jxowAyL6OsZAvca3Tfdj,36,8
-612,Massara Blue Jeans,1,2021-11-24,14ZuLmv66fNWe7tq7fjd0i,36,9
-613,Uso,1,2021-11-24,6U7vQ6wkXJzJ9F2aGtg5VI,36,10
-614,Akai Sweat Pea,1,2021-11-24,7qePfkl8wEUdywScd8qBoI,36,11
-615,Kono Sekai de,1,2021-11-24,6ydlGt57MqjSaI4GoVoYfF,36,12
-616,KING,1,2021-11-24,0TIH0LweOO50xLszvlPmkX,36,13
-617,Alien Alien,1,2021-11-24,7oXKoYOPHqokDCpCZKSNjF,36,14
-618,Taiyokei Disco,1,2021-11-24,7igxbsgbtMyDI70zaJBBG4,36,15
+604,HOT LIMIT,1,2021-11-24,6erbYJuCO9cgWQtmVmnE1t,37,1
+605,Romance no Kamisama,1,2021-11-24,7J1iGMSyRru4leMjl8cVAp,37,2
+606,Fansa,1,2021-11-24,0j1LIBSa98LtNCUatXZqQr,37,3
+607,MASAYUME CHASING,1,2021-11-24,6SZPZv5bICgtQBKNULY9Ig,37,4
+608,Kaibutsu,1,2021-11-24,589x2AYey2vCTRKd7Bkjee,37,5
+609,Android Girl,1,2021-11-24,0EIzl1b8M7wDCD64B48NCb,37,6
+610,God knows...,1,2021-11-24,1cYNzkhOz19uDJcWzitLbA,37,7
+611,Butterfly,1,2021-11-24,68jxowAyL6OsZAvca3Tfdj,37,8
+612,Massara Blue Jeans,1,2021-11-24,14ZuLmv66fNWe7tq7fjd0i,37,9
+613,Uso,1,2021-11-24,6U7vQ6wkXJzJ9F2aGtg5VI,37,10
+614,Akai Sweat Pea,1,2021-11-24,7qePfkl8wEUdywScd8qBoI,37,11
+615,Kono Sekai de,1,2021-11-24,6ydlGt57MqjSaI4GoVoYfF,37,12
+616,KING,1,2021-11-24,0TIH0LweOO50xLszvlPmkX,37,13
+617,Alien Alien,1,2021-11-24,7oXKoYOPHqokDCpCZKSNjF,37,14
+618,Taiyokei Disco,1,2021-11-24,7igxbsgbtMyDI70zaJBBG4,37,15
 619,HINOTORI - Takanashi Kiara【Astrophysics Remix】,2,2021-11-25,NULL,NULL,NULL
 620,HINOTORI - Takanashi Kiara 【Lone Alpha Remix】,2,2021-11-26,NULL,NULL,NULL
 621,HINOTORI - Takanashi Kiara 【REDSHiFT Remix】,2,2021-11-26,NULL,NULL,NULL
 622,phony,1,2021-11-26,NULL,NULL,NULL
-623,Caesura of Despair - Twilight ver.,2,2021-11-27,2j8G1lLFgvh7gvnwA0hAtB,37,1
-624,Bluerose - Twilight ver.,2,2021-11-27,3rtvDPCHJPRnQYkByEBPTb,37,2
-625,Tokusya-Seizon Wonder-la-der!! - Twilight ver.,2,2021-11-27,5v1KfdxeIDYoZuF22zMmA6,37,3
-626,BLUE CLAPPER - Twilight ver.,2,2021-11-27,1L3QPOHhABiMvNXhxnUisN,37,4
-627,"Halloween Night, Tonight! - Twilight ver.",2,2021-11-27,4etuzYT4jbdZK4aL1AKRs0,37,5
-628,"mayday,mayday - Twilight ver.",2,2021-11-27,3oR9hKZ6RWbptNuzq6yCPI,37,6
-629,Lioness' Pride - Twilight ver.,2,2021-11-27,5bouPlzUnqdMYhBwQnZYNt,37,7
-630,VIOLET - Twilight ver.,2,2021-11-27,5nw4ul3GOsve92yAC8Tgqo,37,8
-631,AsuiroClearSky - Twilight ver.,2,2021-11-27,3UBROEzD2GcqBwdaU39nUR,37,9
-632,STARDUST SONG - Twilight ver.,2,2021-11-27,2e1oij2s4vfHdVrlxKIyWk,37,10
+623,Caesura of Despair - Twilight ver.,2,2021-11-27,2j8G1lLFgvh7gvnwA0hAtB,38,1
+624,Bluerose - Twilight ver.,2,2021-11-27,3rtvDPCHJPRnQYkByEBPTb,38,2
+625,Tokusya-Seizon Wonder-la-der!! - Twilight ver.,2,2021-11-27,5v1KfdxeIDYoZuF22zMmA6,38,3
+626,BLUE CLAPPER - Twilight ver.,2,2021-11-27,1L3QPOHhABiMvNXhxnUisN,38,4
+627,"Halloween Night, Tonight! - Twilight ver.",2,2021-11-27,4etuzYT4jbdZK4aL1AKRs0,38,5
+628,"mayday,mayday - Twilight ver.",2,2021-11-27,3oR9hKZ6RWbptNuzq6yCPI,38,6
+629,Lioness' Pride - Twilight ver.,2,2021-11-27,5bouPlzUnqdMYhBwQnZYNt,38,7
+630,VIOLET - Twilight ver.,2,2021-11-27,5nw4ul3GOsve92yAC8Tgqo,38,8
+631,AsuiroClearSky - Twilight ver.,2,2021-11-27,3UBROEzD2GcqBwdaU39nUR,38,9
+632,STARDUST SONG - Twilight ver.,2,2021-11-27,2e1oij2s4vfHdVrlxKIyWk,38,10
 633,Seyana.,1,2021-11-30,NULL,NULL,NULL
 634,Pentas,0,2021-12-01,1cfMvayH3A4PewOiIS80CR,NULL,NULL
 635,Turing Love,1,2021-12-01,NULL,NULL,NULL
@@ -642,7 +642,7 @@ id,title,type,release_date,spotify_id,album_id,track_no
 641,Love Me Love Me,0,2021-12-06,6n1qVTpxdtuD4MhzeHf3vF,NULL,NULL
 642,Wakuwaku Everyday,0,2021-12-06,4VFdXr2BrYsCm1ulSfj5Hf,NULL,NULL
 643,Future Galaxy and Whistle Melody,0,2021-12-07,2ErGMUDSKM3SnpnC0H3Nxm,NULL,NULL
-644,Yona Yona Journey,0,2021-12-09,6MGxLjbGvW5oU162i8trvG,38,2
+644,Yona Yona Journey,0,2021-12-09,6MGxLjbGvW5oU162i8trvG,39,2
 645,Chichin-Pui-Pui,1,2021-12-13,NULL,NULL,NULL
 646,Cinema,1,2021-12-13,NULL,NULL,NULL
 647,Yumehanabi,0,2021-12-13,NULL,NULL,NULL
@@ -689,17 +689,17 @@ id,title,type,release_date,spotify_id,album_id,track_no
 ,COEXIST RAP,0,2021-12-16,NULL,NULL,NULL
 ,Ashura-chan,1,2021-12-16,NULL,NULL,NULL
 ,Animal,1,2021-12-17,NULL,NULL,NULL
-,magical mode,1,2022-01-16,NULL,41,4
-,Hello/How Are You,1,2022-01-16,NULL,41,9
-,Himawari No Yakusoku,1,2022-01-16,NULL,41,12
-,Kawaru Mirai,1,2022-01-16,NULL,41,14
-,Renai Circulation,1,2022-01-16,NULL,41,17
-,Fantastic future,1,2022-01-16,NULL,41,20
-,Reflectier,1,2022-01-16,NULL,41,21
+,magical mode,1,2022-01-16,NULL,42,4
+,Hello/How Are You,1,2022-01-16,NULL,42,9
+,Himawari No Yakusoku,1,2022-01-16,NULL,42,12
+,Kawaru Mirai,1,2022-01-16,NULL,42,14
+,Renai Circulation,1,2022-01-16,NULL,42,17
+,Fantastic future,1,2022-01-16,NULL,42,20
+,Reflectier,1,2022-01-16,NULL,42,21
 ,S'il Vous President,1,2021-12-19,NULL,NULL,NULL
-,Koi no Takuhaibin,0,2021-12-22,NULL,39,1
-,"Hitokuchi, Choudai?",0,2021-12-22,NULL,39,2
-,Taisetsuna Oshirase,0,2021-12-22,NULL,39,3
+,Koi no Takuhaibin,0,2021-12-22,NULL,40,1
+,"Hitokuchi, Choudai?",0,2021-12-22,NULL,40,2
+,Taisetsuna Oshirase,0,2021-12-22,NULL,40,3
 ,HAACHAMA-therf*cker,0,2020-08-06,NULL,NULL,NULL
 ,HAACHAMA Channel,0,2020-07-08,NULL,NULL,NULL
 ,HAACHAMA Rap,0,2020-07-31,NULL,NULL,NULL
@@ -707,7 +707,7 @@ id,title,type,release_date,spotify_id,album_id,track_no
 ,Haachama of meme life rap,0,2020-09-03,NULL,NULL,NULL
 ,Choco♡Melty,0,2021-12-19,3FhPfxEeIiIRgisS0WgCrV,NULL,NULL
 ,The Twelve Days of Christmas,1,2021-12-21,NULL,NULL,NULL
-,Magic Word Orchestra,0,2021-12-20,,,
+,Magic Word Orchestra,0,2021-12-20,6In1zJ0J1fEFJytczy2Uu4,NULL,NULL
 ,THE UNIT IS SHIT RAP,0,2021-12-21,NULL,NULL,NULL
 ,Turing Love,1,2020-09-27,NULL,NULL,NULL
 ,It’s not like I’m mentally ill!!,1,2021-09-05,NULL,NULL,NULL
@@ -748,3 +748,42 @@ id,title,type,release_date,spotify_id,album_id,track_no
 ,Catch the Moment,1,2019-07-28,NULL,NULL,NULL
 ,Wishing,1,2019-06-28,NULL,NULL,NULL
 ,phony,1,2021-12-21,NULL,NULL,NULL
+,Animal,1,2021-12-21,NULL,NULL,NULL
+,ROKI,1,2021-12-21,NULL,NULL,NULL
+,e-ma e-ma,3,2021-02-20,NULL,NULL,NULL
+,Otome Dissection,1,2019-03-31,NULL,NULL,NULL
+,Humorous dream of Mrs.Pumpkin,1,2019-10-31,NULL,NULL,NULL
+,Suki Kirai,1,2019-08-14,NULL,NULL,NULL
+,Hakujitsu,1,2020-03-29,NULL,NULL,NULL
+,Racing into the Night,1,2020-07-29,NULL,NULL,NULL
+,KING,1,2020-11-15,NULL,NULL,NULL
+,okochama sensou,1,2020-12-08,NULL,NULL,NULL
+,USSEEWA,1,2021-03-12,NULL,NULL,NULL
+,The Vampire,1,2021-04-18,NULL,NULL,NULL
+,Odo,1,2021-07-31,NULL,NULL,NULL
+,Front Memory,1,2021-08-31,NULL,NULL,NULL
+,God-ish,1,2021-11-28,NULL,NULL,NULL
+,phony,1,2021-12-08,NULL,NULL,NULL
+,Chikatto Chika Chika​,1,2019-11-02,NULL,NULL,NULL
+,Fansa,1,2019-06-30,NULL,NULL,NULL
+,Booo!,1,2019-05-25,NULL,NULL,NULL
+,ADAMAS,1,2019-03-07,NULL,NULL,NULL
+,Snow Song Show,1,2018-12-25,NULL,NULL,NULL
+,Ikitekoso,1,2020-05-31,NULL,NULL,NULL
+,Good-bye sengen,1,2021-05-22,NULL,NULL,NULL
+,KING,1,2021-04-29,NULL,NULL,NULL
+,Ghost In A Flower,1,2021-08-08,NULL,NULL,NULL
+,Ai Kotoba III,1,2019-09-03,NULL,NULL,NULL
+,Two Stars,1,2019-03-03,NULL,NULL,NULL
+,Cherry Bomb,1,2021-10-15,NULL,NULL,NULL
+,Sweet Magic,1,2021-02-14,NULL,NULL,NULL
+,〇〇〇〇〇,1,2019-12-04,NULL,NULL,NULL
+,Delusion Tax,1,2019-07-25,NULL,NULL,NULL
+,Gimme Chocolate!!,1,2021-02-14,NULL,NULL,NULL
+,For Campanella,1,2012-12-22,NULL,NULL,NULL
+,Kataomoi,1,2020-05-21,NULL,NULL,NULL
+,koi no mahou,1,2020-06-26,NULL,NULL,NULL
+,Do my best!,1,2020-01-18,NULL,NULL,NULL
+,Fansa,1,2021-10-07,NULL,33,3
+,Kanade,1,2021-10-07,NULL,33,4
+,SHANTI,1,2021-12-22,NULL,NULL,NULL
