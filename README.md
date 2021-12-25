@@ -52,7 +52,7 @@ Associative entity to handle the many-to-many relationship between **GROUPS** an
 - Create REST API to provide data 
 
 ## Special Thanks
-Cover Corp for creating hololive production 
-joexyz on Discord for advice on database schema 
-[Completely Unofficial Civia Archive Channel](https://www.youtube.com/channel/UCIrO3R_SG3TZhXvzMhOP7jw) for upload information on Civia videos
-All information was obtained from publically available resources, one of the more useful sites include the [official hololive production website](https://hololive.hololivepro.com/en/)
+Cover Corp for creating hololive production  
+joexyz on Discord for advice on database schema  
+[Completely Unofficial Civia Archive Channel](https://www.youtube.com/channel/UCIrO3R_SG3TZhXvzMhOP7jw) for upload information on Civia videos  
+All information was obtained from publically available resources, some of the more useful sites include the [official hololive production website](https://hololive.hololivepro.com/en/), [hololive fan wiki](https://hololive.wiki/wiki/Main_Page), [hololive fandom wiki](https://virtualyoutuber.fandom.com/wiki/Hololive), etc. 
