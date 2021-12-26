@@ -154,7 +154,7 @@ id,title,type,release_date,spotify_id,album_id,track_no
 153,Call Our Name,0,2019-12-19,4N7T0VTpF7rpe8ummputn2,8,2
 154,Play the Game,0,2019-12-19,3Meh2cyBYiZbNSZjpodkld,8,3
 155,Clockwork Clown,1,2019-12-22,NULL,NULL,NULL
-156,blessing,1,2019-12-24,NULL,NULL,NULL
+156,Blessing,1,2019-12-24,NULL,NULL,NULL
 157,Christmas Song,1,2019-12-24,NULL,NULL,NULL
 158,Nekoze Punch!!,0,2019-12-25,NULL,NULL,NULL
 159,Lonely Christmas,0,2019-12-25,NULL,NULL,NULL
@@ -600,7 +600,7 @@ id,title,type,release_date,spotify_id,album_id,track_no
 599,aqua iro palette -TEKINA//remix-,2,2021-11-17,7wXLjDD9rcgd9QnfUA6MxV,36,1
 600,SHIJOSHUGI ADTRUCK -TEKINA//remix-,2,2021-11-17,4WAhqAm9Ca1NIeAH0lIwuQ,36,2
 601,NEXT COLOR PLANET -TEKINA//remix-,2,2021-11-17,3aCv3ejbGSuN0wpWux8PK6,36,3
-602,W.I.M.,0,2021-11-20,2OWsOo4lF3zd6ADpKvjAPV,NULL,NULL
+602,W.I.M.,0,2021-11-11,2OWsOo4lF3zd6ADpKvjAPV,NULL,NULL
 603,Interact Fantasia,0,2021-11-21,2SFvqQLCgyxS74STmKSkW5,NULL,NULL
 604,HOT LIMIT,1,2021-11-24,6erbYJuCO9cgWQtmVmnE1t,37,1
 605,Romance no Kamisama,1,2021-11-24,7J1iGMSyRru4leMjl8cVAp,37,2
@@ -906,27 +906,49 @@ id,title,type,release_date,spotify_id,album_id,track_no
 905,Romeo,1,2019-12-28,NULL,NULL,NULL
 906,Happy Halloween,1,2019-10-30,NULL,NULL,NULL
 907,Solar System Disco,1,2019-12-09,NULL,NULL,NULL
-908,Never Gonna Give You Up,1,2021-12-25,,,
-909,Discommunication Alien,1,2020-04-04,,,
-910,Cinderella,1,2021-09-29,,,
-911,Deck the Halls,1,2021-12-26,,,
-912,Sparks of Joy,0,2021-12-26,5yLXIe28LPG0IhqyOw8h99,,
-913,Target for Love,3,2021-12-26,,,
-914,Good-bye sengen,3,2021-07-18,,,
-915,Renai Circulation,1,2021-07-18,,,
-916,Ghost In A Flower,1,2020-08-31,,,
-917,The Vampire,1,2021-11-27,,,
-918,Cinderella,1,2021-11-21,,,
-919,Colorful,1,2021-10-28,,,
-920,Mental Chainsaw,1,2021-09-24,,,
-921,Good-bye sengen,1,2021-09-16,,,
-922,Monster,1,2021-08-07,,,
-923,Moon-viewing recital,1,2021-08-07,,,
-924,Naisho no Hanashi,1,2021-06-05,,,
-925,Gacha Gacha Hertz,1,2021-04-25,,,
-926,KING,1,2021-03-11,,,
-927,That's Why I Gave Up on Music,1,2020-12-23,,,
-928,Ai Kotoba III,1,2020-06-14,,,
-929,Tokyo Teddy Bear,1,2020-02-08,,,
-930,Happy Halloween,1,2019-10-31,,,
-931,Solar System Disco,1,2019-11-21,,,
+908,Never Gonna Give You Up,1,2021-12-25,NULL,NULL,NULL
+909,Discommunication Alien,1,2020-04-04,NULL,NULL,NULL
+910,Cinderella,1,2021-09-29,NULL,NULL,NULL
+911,Deck the Halls,1,2021-12-26,NULL,NULL,NULL
+912,Sparks of Joy,0,2021-12-26,5yLXIe28LPG0IhqyOw8h99,NULL,NULL
+913,Target for Love,3,2021-12-26,NULL,NULL,NULL
+914,Good-bye sengen,3,2021-07-18,NULL,NULL,NULL
+915,Renai Circulation,1,2021-07-18,NULL,NULL,NULL
+916,Ghost In A Flower,1,2020-08-31,NULL,NULL,NULL
+917,The Vampire,1,2021-11-27,NULL,NULL,NULL
+918,Cinderella,1,2021-11-21,NULL,NULL,NULL
+919,Colorful,1,2021-10-28,NULL,NULL,NULL
+920,Mental Chainsaw,1,2021-09-24,NULL,NULL,NULL
+921,Good-bye sengen,1,2021-09-16,NULL,NULL,NULL
+922,Monster,1,2021-08-07,NULL,NULL,NULL
+923,Moon-viewing recital,1,2021-08-07,NULL,NULL,NULL
+924,Naisho no Hanashi,1,2021-06-05,NULL,NULL,NULL
+925,Gacha Gacha Hertz,1,2021-04-25,NULL,NULL,NULL
+926,KING,1,2021-03-11,NULL,NULL,NULL
+927,That's Why I Gave Up on Music,1,2020-12-23,NULL,NULL,NULL
+928,Ai Kotoba III,1,2020-06-14,NULL,NULL,NULL
+929,Tokyo Teddy Bear,1,2020-02-08,NULL,NULL,NULL
+930,Happy Halloween,1,2019-10-31,NULL,NULL,NULL
+931,Solar System Disco,1,2019-11-21,NULL,NULL,NULL
+932,Sasakure Kinema,0,2021-08-11,NULL,NULL,NULL
+933,Music Hour,1,2021-07-30,NULL,NULL,NULL
+934,Mihata no Moto ni,1,2021-07-20,NULL,NULL,NULL
+935,Yellow Vacation,1,2021-07-06,NULL,NULL,NULL
+936,Colors,1,2021-07-01,NULL,NULL,NULL
+937,Yonayonayona,1,2021-04-22,NULL,NULL,NULL
+938,Ochame Kinou,1,2021-03-13,NULL,NULL,NULL
+939,BLOODY STREAM,1,2021-01-20,NULL,NULL,NULL
+940,The Song of a Broken/Loved Youkai Who Loved a Human,1,2020-09-11,NULL,NULL,NULL
+941,Stand by Me,1,2020-01-07,NULL,NULL,NULL
+942,The Naniwa Bay Poem,1,2020-01-07,NULL,NULL,NULL
+943,Kiss Shite,1,2021-05-02,NULL,NULL,NULL
+944,Tenshi no Agape,0,2021-12-27,5IFKNRpcx019btf9mALLgd,NULL,NULL
+945,Doyatto V Peace,3,2021-12-26,NULL,NULL,NULL
+946,Houki Gumo,1,2021-09-30,NULL,NULL,NULL
+947,What a Pastaful World,1,2021-08-29,NULL,NULL,NULL
+948,Onegai Muscle,1,2021-07-15,NULL,NULL,NULL
+949,Suteki na Holiday,1,2020-12-22,NULL,NULL,NULL
+950,Blessing,1,2020-06-03,NULL,NULL,NULL
+951,Pizza Pasta Pizza no Uta,1,2020-05-02,NULL,NULL,NULL
+952,Me-Gumi no Hito,1,2020-09-08,NULL,NULL,NULL
+953,Shin Takarajima,1,2021-08-29,NULL,NULL,NULL
