@@ -14,7 +14,7 @@ id,name,status,debut_gen,debut_date,grad_date,yt_channel_id,yt_topic_id,spotify_
 13,Murasaki Shion,1,JP2,2018-08-17,NULL,UCXTpFs_3PqI41qX2d9tL2Rw,UNDER VARIOUS ARTISTS,5Th82IWKMPF6PpvsBl06Qj,murasakishionch,NULL
 14,Nakiri Ayame,1,JP2,2018-09-03,NULL,UC7fk0CB07ly8oSl0aqKkqFg,UNDER VARIOUS ARTISTS,1dMlek4eXZns9FyjBcvrF8,nakiriayame,NULL
 15,Yuzuki Choco,1,JP2,2018-09-04,NULL,UC1suqwovbL1kzsoaZgFZLKg,UNDER VARIOUS ARTISTS,7f88eYygFslxqmdh0mDWXn,yuzukichococh,NULL
-16,Oozora Subaru,1,JP2,2018-09-16,NULL,UCvzGlP9oQwU--Y0r9id_jnA,UCnsJ32NFvE2IdUU20JlQBjg,1gSUbOpSpv15bOewxQ64eB,oozorasubaru,NULL
+16,Oozora Subaru,1,JP2,2018-09-16,NULL,UCvzGlP9oQwU--Y0r9id_jnA,UCnsJ32NFvE2IdUU20JlQBjg,1gSUbOpSpv15bOewxQ64eB,oozorasubaru,Spice Love yt_topic_id: UCsjf_K91Q5s4wtAf3mBkwCA
 17,AZKi,1,INNK Music,2018-11-15,NULL,UC0TXe_LYZ4scaW2XMyi5_kw,UChW98xJ71aUQ7Vns_QkLy-w,0HX3yJ7THlqC9drRqhOkgo,AZKi_VDiVA,NULL
 18,Ookami Mio,1,GAMERS,2018-12-07,NULL,UCp-5t9SrOQwXMU7iIjQfARg,UCHYTTba2SyK82DuoFh1FLDg,539Z6h1XU1IripGR4rTtbz,ookamimio,NULL
 19,Nekomata Okayu,1,GAMERS,2019-04-06,NULL,UCvaTdHTWBGv3MKj3KVqJVCw,UCKnvC2XMqiXatNTK0N50LqA,28lO8lCOqFvDB5la90xKUW,nekomataokayu,NULL
@@ -43,35 +43,36 @@ id,name,status,debut_gen,debut_date,grad_date,yt_channel_id,yt_topic_id,spotify_
 42,Spade Echo,0,CH1,2020-01-30,2020-11-21,NULL,NULL,NULL,SpadeEcho,NULL
 43,Doris,0,CH2,2020-04-03,2020-12-05,NULL,NULL,NULL,Doris_Hololive,NULL
 44,Rosalyn,0,CH2,2020-04-05,2020-12-27,NULL,NULL,NULL,Rosalyn_holoCN,NULL
-45,Ayunda Risu,1,ID1,2020-04-10,NULL,UCOyYb1c43VlX9rc_lT6NKQw,NULL,NULL,ayunda_risu,NULL
+45,Ayunda Risu,1,ID1,2020-04-10,NULL,UCOyYb1c43VlX9rc_lT6NKQw,UNDER VARIOUS ARTISTS,NULL,ayunda_risu,NULL
 46,Moona Hoshinova,1,ID1,2020-04-11,NULL,UCP0BspO_AMEe3aQqqpo89Dg,UNDER VARIOUS ARTISTS,2Iss9rGmxvoEfVigargjTH,moonahoshinova,NULL
 47,Artia,0,CH2,2020-04-11,2020-11-19,NULL,NULL,NULL,Artia_OW,NULL
 48,Airani Iofifteen,1,ID1,2020-04-12,NULL,UCAoy6rzhSf4ydcYjJw3WoVg,NULL,NULL,airaniiofifteen,NULL
 49,Tsukishita Kaoru,0,TriNero,2020-04-29,2020-07-28,UCsehvfwaWF6nWuFnXI0AqZQ,NULL,NULL,tsukishitakaoru,NULL
 50,Kageyama Shien,1,TriNero,2020-04-30,NULL,UChSvpZYRPh0FvG4SJGSga3g,NULL,6Pjq6W7ZAitxgTvUfa9gGk,kageyamashien,NULL
-51,Aragami Oga,1,TriNero,2020-05-01,NULL,UCwL7dgTxKo8Y4RFIKWaf8gA,NULL,51y5hQaDx7FLqH0Lcm6ubZ,aragamioga,NULL
-52,Yukihana Lamy,1,JP5,2020-08-12,NULL,UCFKOVgVbGmX65RxO3EtH3iw,UNDER VARIOUS ARTISTS,0qysjJL9vlQUriZJRQmcVE,yukihanalamy,NULL
-53,Momosuzu Nene,1,JP5,2020-08-13,NULL,UCAWSyEs_Io8MtpY3m-zqILA,UC1ayhcwJh-N7BJC9MHH-vMQ,3KixQ8ZB7p1AXDaRA62SpX,momosuzunene,NULL
-54,Shishiro Botan,1,JP5,2020-08-14,NULL,UCUKD-uaobj9jiqB-VXt71mA,UNDER VARIOUS ARTISTS,6SJuFGUxkapaefayFdBwWz,shishirobotan,NULL
-55,Mano Aloe,0,JP5,2020-08-15,2020-08-31,UCgZuwn-O7Szh9cAgHqJ6vjw,NULL,NULL,manoaloe,NULL
-56,Omaru Polka,1,JP5,2020-08-16,NULL,UCK9V2B22uJYu3N7eR_BT9QA,UCLxGb_hc38RqeQjYFEXmpvg,4lnAamuhZv4tmgOMryoB73,omarupolka,NULL
-57,Mori Calliope,1,-Myth-,2020-09-12,NULL,UCL_qhgtOy0dy1Agp8vkySQg,OFFICIAL ARTIST CHANNEL,1PhE6rv0146ZTQosoPDjk8,moricalliope,NULL
-58,Takanashi Kiara,1,-Myth-,2020-09-12,NULL,UCHsx4Hqa-1ORjQTh9TYDhww,UCIkpAd2Hhs_GvPRaPLtlR6Q,6UCFRdg4ySMWj6O4QRKyZs,takanashikiara,NULL
-59,Ninomae Ina'nis,1,-Myth-,2020-09-13,NULL,UCMwGHR0BTZuLsmjY_NT5Pwg,UCeSflFgEVmvwChpTB0lLO1w,3iPvwu8p75fYRa0V4wi8gN,ninomaeinanis,NULL
-60,Gawr Gura,1,-Myth-,2020-09-13,NULL,UCoSrY_IQQVpmIRZ9Xf-y93g,UCGWJmXZpYgpMnP-e0_L14eQ,1Spm887PTszc2AoNYpoCld,gawrgura,NULL
-61,Watson Amelia,1,-Myth-,2020-09-13,NULL,UCyl1z3jo3XHR1riLFKG5UAg,UC_pAAduXuShLplpWFYTiRHw,0R8gPf3buI10EYWrB7FBlm,watsonameliaEN,NULL
-62,Kureiji Ollie,1,ID2,2020-12-04,NULL,UCYz_5n-uDuChHtLo7My1HnQ,NULL,NULL,kureijiollie,NULL
-63,Anya Melfissa,1,ID2,2020-12-05,NULL,UC727SQYUvx5pDDGQpTICNWg,NULL,NULL,anyamelfissa,NULL
-64,Pavolia Reine,1,ID2,2020-12-06,NULL,UChgTyjG-pdNvxxhdsXfHQ5Q,UNDER VARIOUS ARTISTS,44udMKGBm7IJxh63aPv0cj,pavoliareine,NULL
-65,IRyS,1,Project: HOPE,2021-07-11,NULL,UC8rcEBzJSleTkf_-agPM20g,UNDER VARIOUS ARTISTS,7y1hO3QeftnOJmWCbzeZav,irys_en,NULL
-66,Tsukumo Sana,1,-Council-,2021-08-22,NULL,UCsUj0dszADCGbF3gNrQEuSQ,NULL,NULL,tsukumosana,NULL
-67,Ceres Fauna,1,-Council-,2021-08-22,NULL,UCO_aKKYxn4tvrqPjcTzZ6EQ,NULL,NULL,ceresfauna,NULL
-68,Ouro Kronii,1,-Council-,2021-08-22,NULL,UCmbs8T6MWqUHP1tIQvSgKrg,NULL,NULL,ourokronii,NULL
-69,Nanashi Mumei,1,-Council-,2021-08-22,NULL,UC3n5uGu18FoCy23ggWWp8tA,NULL,NULL,nanashimumei_en,NULL
-70,Hakos Baelz,1,-Council-,2021-08-22,NULL,UCgmPnx-EEeOrZSg5Tiw7ZRQ,NULL,NULL,hakosbaelz,NULL
-71,La+ Darkness,1,holoX,2021-11-26,NULL,UCENwRMx5Yh42zWpzURebzTw,NULL,NULL,LaplusDarknesss,NULL
-72,Takane Lui,1,holoX,2021-11-27,NULL,UCs9_O1tRPMQTHQ-N_L6FU2g,NULL,NULL,takanelui,NULL
-73,Hakui Koyori,1,holoX,2021-11-28,NULL,UC6eWCld0KwmyHFbAqK3V-Rw,NULL,NULL,hakuikoyori,NULL
-74,Sakamata Chloe,1,holoX,2021-11-29,NULL,UCIBY1ollUsauvVi4hW4cumw,NULL,NULL,sakamatachloe,NULL
-75,Kazama Iroha,1,holoX,2021-11-30,NULL,UC_vMYWcDjmfdpH6r4TTn1MQ,NULL,NULL,kazamairohach,NULL
-76,Omegaα,2,-Council-,NULL,NULL,UCKYyiJwNg2nV7hM86U5_wvw,NULL,NULL,omegaalpha_en,NULL
+51,Aragami Oga,1,TriNero,2020-05-01,NULL,UCwL7dgTxKo8Y4RFIKWaf8gA,UNDER VARIOUS ARTISTS,51y5hQaDx7FLqH0Lcm6ubZ,aragamioga,NULL
+52,Daidou Shinove,2,NULL,2020-07-11,NULL,NULL,NULL,NULL,daidoushinove,NULL
+53,Yukihana Lamy,1,JP5,2020-08-12,NULL,UCFKOVgVbGmX65RxO3EtH3iw,UNDER VARIOUS ARTISTS,0qysjJL9vlQUriZJRQmcVE,yukihanalamy,NULL
+54,Momosuzu Nene,1,JP5,2020-08-13,NULL,UCAWSyEs_Io8MtpY3m-zqILA,UC1ayhcwJh-N7BJC9MHH-vMQ,3KixQ8ZB7p1AXDaRA62SpX,momosuzunene,NULL
+55,Shishiro Botan,1,JP5,2020-08-14,NULL,UCUKD-uaobj9jiqB-VXt71mA,UNDER VARIOUS ARTISTS,6SJuFGUxkapaefayFdBwWz,shishirobotan,NULL
+56,Mano Aloe,0,JP5,2020-08-15,2020-08-31,UCgZuwn-O7Szh9cAgHqJ6vjw,NULL,NULL,manoaloe,NULL
+57,Omaru Polka,1,JP5,2020-08-16,NULL,UCK9V2B22uJYu3N7eR_BT9QA,UCLxGb_hc38RqeQjYFEXmpvg,4lnAamuhZv4tmgOMryoB73,omarupolka,NULL
+58,Mori Calliope,1,-Myth-,2020-09-12,NULL,UCL_qhgtOy0dy1Agp8vkySQg,OFFICIAL ARTIST CHANNEL,1PhE6rv0146ZTQosoPDjk8,moricalliope,NULL
+59,Takanashi Kiara,1,-Myth-,2020-09-12,NULL,UCHsx4Hqa-1ORjQTh9TYDhww,UCIkpAd2Hhs_GvPRaPLtlR6Q,6UCFRdg4ySMWj6O4QRKyZs,takanashikiara,NULL
+60,Ninomae Ina'nis,1,-Myth-,2020-09-13,NULL,UCMwGHR0BTZuLsmjY_NT5Pwg,UCeSflFgEVmvwChpTB0lLO1w,3iPvwu8p75fYRa0V4wi8gN,ninomaeinanis,NULL
+61,Gawr Gura,1,-Myth-,2020-09-13,NULL,UCoSrY_IQQVpmIRZ9Xf-y93g,UCGWJmXZpYgpMnP-e0_L14eQ,1Spm887PTszc2AoNYpoCld,gawrgura,NULL
+62,Watson Amelia,1,-Myth-,2020-09-13,NULL,UCyl1z3jo3XHR1riLFKG5UAg,UC_pAAduXuShLplpWFYTiRHw,0R8gPf3buI10EYWrB7FBlm,watsonameliaEN,NULL
+63,Kureiji Ollie,1,ID2,2020-12-04,NULL,UCYz_5n-uDuChHtLo7My1HnQ,NULL,NULL,kureijiollie,NULL
+64,Anya Melfissa,1,ID2,2020-12-05,NULL,UC727SQYUvx5pDDGQpTICNWg,NULL,NULL,anyamelfissa,NULL
+65,Pavolia Reine,1,ID2,2020-12-06,NULL,UChgTyjG-pdNvxxhdsXfHQ5Q,UNDER VARIOUS ARTISTS,44udMKGBm7IJxh63aPv0cj,pavoliareine,NULL
+66,IRyS,1,Project: HOPE,2021-07-11,NULL,UC8rcEBzJSleTkf_-agPM20g,UNDER VARIOUS ARTISTS,7y1hO3QeftnOJmWCbzeZav,irys_en,NULL
+67,Tsukumo Sana,1,-Council-,2021-08-22,NULL,UCsUj0dszADCGbF3gNrQEuSQ,NULL,NULL,tsukumosana,NULL
+68,Ceres Fauna,1,-Council-,2021-08-22,NULL,UCO_aKKYxn4tvrqPjcTzZ6EQ,NULL,NULL,ceresfauna,NULL
+69,Ouro Kronii,1,-Council-,2021-08-22,NULL,UCmbs8T6MWqUHP1tIQvSgKrg,NULL,NULL,ourokronii,NULL
+70,Nanashi Mumei,1,-Council-,2021-08-22,NULL,UC3n5uGu18FoCy23ggWWp8tA,UNDER VARIOUS ARTISTS,NULL,nanashimumei_en,NULL
+71,Hakos Baelz,1,-Council-,2021-08-22,NULL,UCgmPnx-EEeOrZSg5Tiw7ZRQ,NULL,NULL,hakosbaelz,NULL
+72,La+ Darkness,1,holoX,2021-11-26,NULL,UCENwRMx5Yh42zWpzURebzTw,NULL,NULL,LaplusDarknesss,NULL
+73,Takane Lui,1,holoX,2021-11-27,NULL,UCs9_O1tRPMQTHQ-N_L6FU2g,NULL,NULL,takanelui,NULL
+74,Hakui Koyori,1,holoX,2021-11-28,NULL,UC6eWCld0KwmyHFbAqK3V-Rw,NULL,NULL,hakuikoyori,NULL
+75,Sakamata Chloe,1,holoX,2021-11-29,NULL,UCIBY1ollUsauvVi4hW4cumw,NULL,NULL,sakamatachloe,NULL
+76,Kazama Iroha,1,holoX,2021-11-30,NULL,UC_vMYWcDjmfdpH6r4TTn1MQ,NULL,NULL,kazamairohach,NULL
+77,Omegaα,2,-Council-,NULL,NULL,UCKYyiJwNg2nV7hM86U5_wvw,NULL,NULL,omegaalpha_en,NULL
