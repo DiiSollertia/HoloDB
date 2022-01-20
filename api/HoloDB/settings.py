@@ -44,6 +44,7 @@ INSTALLED_APPS = [
 
     'rest_framework',
     'music.apps.MusicConfig',
+    'staff.apps.StaffConfig'
 ]
 
 MIDDLEWARE = [
