@@ -59,3 +59,5 @@ All information was obtained from publically available resources, some of the mo
 
 ## Potential issues
 - Sensitive information in django files are not stored in environment variables
+- Unclear naming and definition conventions for `EVENTS`
+- Unclear definition for affiliated staff members under `TALENTS` (For example Ui-sensei has Live2D and a YouTube channel, does she qualify? Currently the stance is no.)
