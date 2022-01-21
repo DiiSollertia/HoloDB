@@ -996,5 +996,6 @@ id,title,type,release_date,spotify_id,album_id,track_no
 995,Reflectier,1,2022-01-16,NULL,44,21
 996,A New Start,0,2022-01-17,3zb8psAdbFqInvEoxUWHCB,NULL,NULL
 997,Animal,1,2022-01-17,NULL,NULL,NULL
-,Silent Night Requiem,0,2021-12-26,4o90mHbz1NtjBCqmuzLomc,NULL,NULL
-,BETELGEUSE,1,2022-01-18,NULL,NULL,NULL
+998,Silent Night Requiem,0,2021-12-26,4o90mHbz1NtjBCqmuzLomc,NULL,NULL
+999,BETELGEUSE,1,2022-01-18,NULL,NULL,NULL
+1000,HAACHAMA fight with discord rap,0,2022-01-20,NULL,NULL,NULL
