@@ -976,7 +976,7 @@ id,title,type,release_date,spotify_id,album_id,track_no
 975,Umapyoi Densetsu,1,2022-01-05,NULL,NULL,NULL
 976,BABY CHAMA RAP,0,2022-01-07,NULL,NULL,NULL
 977,Mou Sukoshi Dake,1,2022-01-08,NULL,NULL,NULL
-978,Journey Like a Thousand Years,0,2022-01-09,,,
+978,Journey Like a Thousand Years,0,2022-01-09,21LJ9WqSL6gIbPBg6DALjK,NULL,NULL
 979,Friend Shitai,1,2022-01-10,NULL,NULL,NULL
 980,Only in Hope,0,2022-01-12,1I6lxUUfN12tHReGTvQTsP,43,1
 981,Joy with You,0,2022-01-12,7eWE9sDC80OdpuuJrADZqc,43,2
@@ -1000,3 +1000,5 @@ id,title,type,release_date,spotify_id,album_id,track_no
 999,BETELGEUSE,1,2022-01-18,NULL,NULL,NULL
 1000,HAACHAMA fight with discord rap,0,2022-01-20,NULL,NULL,NULL
 1001,Daydream,0,2022-01-21,NULL,NULL,NULL
+1002,rise,1,2022-01-22,NULL,NULL,NULL
+1003,Omoikou,0,2022-01-22,0Ntwr2abKYB8aL21EnsgVg,NULL,NULL
