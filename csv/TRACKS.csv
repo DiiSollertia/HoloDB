@@ -928,9 +928,9 @@ id,title,type,release_date,spotify_id,album_id,track_no
 927,Animal,1,2021-12-21,NULL,NULL,NULL
 928,ROKI,1,2021-12-21,NULL,NULL,NULL
 929,For Campanella,1,2021-12-22,NULL,NULL,NULL
-930,Koi no Takuhaibin,0,2021-12-22,NULL,40,1
-931,"Hitokuchi, Choudai?",0,2021-12-22,NULL,40,2
-932,Taisetsuna Oshirase,0,2021-12-22,NULL,40,3
+930,Give You My Love,4,2021-12-22,6cETNm9GCn92w5riyvOUoU,40,1
+931,Let Me Have a Bite,0,2021-12-22,7FzY293W3lJxUfUuujikK2,40,2
+932,Eternal Love For You,0,2021-12-22,6brGFvYA3WSHRTdoWZ7jGR,40,3
 933,SHANTI,1,2021-12-22,NULL,NULL,NULL
 934,Whatever whatever whatever,1,2021-12-23,NULL,NULL,NULL
 935,Haairo to Ao,1,2021-12-23,NULL,NULL,NULL
@@ -1007,3 +1007,6 @@ id,title,type,release_date,spotify_id,album_id,track_no
 1006,For The Win (2022 ver.),3,2022-01-24,5he0MPlstxvaaCULID5Dpm,NULL,NULL
 1007,S'il Vous President,1,2022-01-24,NULL,NULL,NULL
 1008,Lower one's eyes,1,2022-01-24,NULL,NULL,NULL
+1009,Give You My Love,0,2021-01-21,1vv5ZSxxykqFtReKigma85,NULL,NULL
+1010,At God's Mercy,1,2022-01-26,NULL,NULL,NULL
+1011,Animal,1,2022-01-26,NULL,NULL,NULL
