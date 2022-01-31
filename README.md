@@ -55,6 +55,7 @@ Associative entity to handle the many-to-many relationship between **GROUPS** an
 Cover Corp for creating hololive production  
 joexyz on Discord for advice on database schema  
 [Completely Unofficial Civia Archive Channel](https://www.youtube.com/channel/UCIrO3R_SG3TZhXvzMhOP7jw) for upload information on Civia videos  
+[Noctuural](https://www.youtube.com/channel/UCkutxM09u8z7M2rJiL5szsQ) for reuplaods and upload information on Yogiri videos  
 All information was obtained from publically available resources, some of the more useful sites include the [official hololive production website](https://hololive.hololivepro.com/en/), [hololive fan wiki](https://hololive.wiki/wiki/Main_Page), [hololive fandom wiki](https://virtualyoutuber.fandom.com/wiki/Hololive), etc. 
 
 ## Potential issues
