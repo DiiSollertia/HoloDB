@@ -138,3 +138,7 @@ GitHub.sublime-settings
 
 # System Files #
 %SystemDrive%/
+
+# Project Files #
+*.sublime-project
+*.sublime-workspace
