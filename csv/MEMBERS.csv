@@ -13,7 +13,7 @@ id,name,status,debut_gen,debut_date,grad_date,yt_channel_id,yt_topic_id,spotify_
 12,Minato Aqua,1,JP2,2018-08-08,NULL,UC1opHUrw8rvnsadT-iGp7Cg,UCrt_gZvJvAB23gDHjW4hMDA,6GHr4rGFHGRUuzuCuxJA0f,minatoaqua,Spice Love yt_topic_id: UCZNTB2NcO-eUbSt0bAN-Z0w
 13,Murasaki Shion,1,JP2,2018-08-17,NULL,UCXTpFs_3PqI41qX2d9tL2Rw,UNDER VARIOUS ARTISTS,5Th82IWKMPF6PpvsBl06Qj,murasakishionch,NULL
 14,Nakiri Ayame,1,JP2,2018-09-03,NULL,UC7fk0CB07ly8oSl0aqKkqFg,UNDER VARIOUS ARTISTS,1dMlek4eXZns9FyjBcvrF8,nakiriayame,NULL
-15,Yuzuki Choco,1,JP2,2018-09-04,NULL,UC1suqwovbL1kzsoaZgFZLKg,UNDER VARIOUS ARTISTS,7f88eYygFslxqmdh0mDWXn,yuzukichococh,NULL
+15,Yuzuki Choco,1,JP2,2018-09-04,NULL,UC1suqwovbL1kzsoaZgFZLKg,UCyaSe7LNl6j0lcfRqa4UD8Q,7f88eYygFslxqmdh0mDWXn,yuzukichococh,NULL
 16,Oozora Subaru,1,JP2,2018-09-16,NULL,UCvzGlP9oQwU--Y0r9id_jnA,UCnsJ32NFvE2IdUU20JlQBjg,1gSUbOpSpv15bOewxQ64eB,oozorasubaru,Spice Love yt_topic_id: UCsjf_K91Q5s4wtAf3mBkwCA
 17,AZKi,1,INNK Music,2018-11-15,NULL,UC0TXe_LYZ4scaW2XMyi5_kw,UChW98xJ71aUQ7Vns_QkLy-w,0HX3yJ7THlqC9drRqhOkgo,AZKi_VDiVA,NULL
 18,Ookami Mio,1,GAMERS,2018-12-07,NULL,UCp-5t9SrOQwXMU7iIjQfARg,UCHYTTba2SyK82DuoFh1FLDg,539Z6h1XU1IripGR4rTtbz,ookamimio,NULL
@@ -44,7 +44,7 @@ id,name,status,debut_gen,debut_date,grad_date,yt_channel_id,yt_topic_id,spotify_
 43,Doris,0,CH2,2020-04-03,2020-12-05,NULL,NULL,NULL,Doris_Hololive,NULL
 44,Rosalyn,0,CH2,2020-04-05,2020-12-27,NULL,NULL,NULL,Rosalyn_holoCN,NULL
 45,Ayunda Risu,1,ID1,2020-04-10,NULL,UCOyYb1c43VlX9rc_lT6NKQw,UNDER VARIOUS ARTISTS,NULL,ayunda_risu,NULL
-46,Moona Hoshinova,1,ID1,2020-04-11,NULL,UCP0BspO_AMEe3aQqqpo89Dg,UNDER VARIOUS ARTISTS,2Iss9rGmxvoEfVigargjTH,moonahoshinova,NULL
+46,Moona Hoshinova,1,ID1,2020-04-11,NULL,UCP0BspO_AMEe3aQqqpo89Dg,UCp7qDg6MkpR2DlnTf6JOeWA,2Iss9rGmxvoEfVigargjTH,moonahoshinova,NULL
 47,Artia,0,CH2,2020-04-11,2020-11-19,NULL,NULL,NULL,Artia_OW,NULL
 48,Airani Iofifteen,1,ID1,2020-04-12,NULL,UCAoy6rzhSf4ydcYjJw3WoVg,NULL,NULL,airaniiofifteen,NULL
 49,Tsukishita Kaoru,0,TriNero,2020-04-29,2020-07-28,UCsehvfwaWF6nWuFnXI0AqZQ,NULL,NULL,tsukishitakaoru,NULL
