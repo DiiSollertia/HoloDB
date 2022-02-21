@@ -23,7 +23,7 @@ id,name,status,debut_gen,debut_date,grad_date,yt_channel_id,yt_topic_id,spotify_
 22,Kagami Kira,0,STARS1,2019-06-09,2020-11-30,UCEzsociuFqVwgZuMaZqaCsg,NULL,NULL,kagamikirach,NULL
 23,Kanade Izuru,1,STARS1,2019-06-22,NULL,UCZgOv3YDEs-ZnZWDYVwJdmA,UNDER VARIOUS ARTISTS,0asG3iGnDzxlo0S4O595Td,kanadeizuru,NULL
 24,Usada Pekora,1,Fantasy,2019-07-17,NULL,UC1DCedRgGHBdm81E1llLhOQ,UCOqODaLthpxW0rtOgLzLmAw,4JlcSp9i5LcilRSMqaVimt,usadapekora,NULL
-25,Uruha Rushia,1,Fantasy,2019-07-18,NULL,UCl_gCybOJRIgOXw6Qb4qJzQ,UNDER VARIOUS ARTISTS,70qI9Ih5VXZMuCsEVhy22C,uruharushia,NULL
+25,Uruha Rushia,1,Fantasy,2019-07-18,NULL,UCl_gCybOJRIgOXw6Qb4qJzQ,UCqozWN6dG6ciUtBWypwLkqA,70qI9Ih5VXZMuCsEVhy22C,uruharushia,NULL
 26,Shiranui Flare,1,Fantasy,2019-08-07,NULL,UCvInZx9h3jC2JzsIzoOebWg,UNDER VARIOUS ARTISTS,0JHnoazUTZHoJMqRwsCDNT,shiranuiflare,NULL
 27,Shirogane Noel,1,Fantasy,2019-08-08,NULL,UCdyqAaZDKHXg4Ahi7VENThQ,UNDER VARIOUS ARTISTS,58dqdL1HubAnJ1QYj5CQCs,shiroganenoel,NULL
 28,Houshou Marine,1,Fantasy,2019-08-11,NULL,UCCzUftO8KOVkV4wQG1vkUvg,UCXpaq8esihcv3tfMGR8hLyw,5XaBNKQo65yYcjNA8wQPOk,houshoumarine,GIGA yt_topic_id: UCcqUSpGCgE57o7LGN9eoYew; TuneCore Japan spotify_id: 4ArC16EPsPZKHUtdeGqHx7
@@ -63,8 +63,8 @@ id,name,status,debut_gen,debut_date,grad_date,yt_channel_id,yt_topic_id,spotify_
 62,Watson Amelia,1,-Myth-,2020-09-13,NULL,UCyl1z3jo3XHR1riLFKG5UAg,UC_pAAduXuShLplpWFYTiRHw,0R8gPf3buI10EYWrB7FBlm,watsonameliaEN,NULL
 63,Kureiji Ollie,1,ID2,2020-12-04,NULL,UCYz_5n-uDuChHtLo7My1HnQ,NULL,NULL,kureijiollie,NULL
 64,Anya Melfissa,1,ID2,2020-12-05,NULL,UC727SQYUvx5pDDGQpTICNWg,NULL,NULL,anyamelfissa,NULL
-65,Pavolia Reine,1,ID2,2020-12-06,NULL,UChgTyjG-pdNvxxhdsXfHQ5Q,UNDER VARIOUS ARTISTS,44udMKGBm7IJxh63aPv0cj,pavoliareine,NULL
-66,IRyS,1,Project: HOPE,2021-07-11,NULL,UC8rcEBzJSleTkf_-agPM20g,UNDER VARIOUS ARTISTS,7y1hO3QeftnOJmWCbzeZav,irys_en,NULL
+65,Pavolia Reine,1,ID2,2020-12-06,NULL,UChgTyjG-pdNvxxhdsXfHQ5Q,UCqaQaDHPf052uxwKL9bED5w,44udMKGBm7IJxh63aPv0cj,pavoliareine,NULL
+66,IRyS,1,Project: HOPE,2021-07-11,NULL,UC8rcEBzJSleTkf_-agPM20g,UCyWyNomzTjBvuRsqZU1bRCg,7y1hO3QeftnOJmWCbzeZav,irys_en,NULL
 67,Tsukumo Sana,1,-Council-,2021-08-22,NULL,UCsUj0dszADCGbF3gNrQEuSQ,NULL,NULL,tsukumosana,NULL
 68,Ceres Fauna,1,-Council-,2021-08-22,NULL,UCO_aKKYxn4tvrqPjcTzZ6EQ,NULL,NULL,ceresfauna,NULL
 69,Ouro Kronii,1,-Council-,2021-08-22,NULL,UCmbs8T6MWqUHP1tIQvSgKrg,UNDER VARIOUS ARTISTS,NULL,ourokronii,NULL
