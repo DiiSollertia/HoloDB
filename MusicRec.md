@@ -8,7 +8,7 @@
 |Yozora Mel       |[Ai Kotoba](https://youtu.be/jW4q0w6CCIo)                          |[Chew the Night Sky](https://youtu.be/8iin3HQpwSY)                            |
 |Shirakami Fubuki |[Scatman](https://youtu.be/VaqLk1YCv-s)                            |[Say!Fanfare!](https://youtu.be/pFgUluV_00s)                                  |
 |Natsuiro Matsuri |[Kataomoi](https://youtu.be/TT6gTs2B1Uw)                           |[Kimi to Nagameru Natsu no Hana](https://youtu.be/llv_1-WEQGg)                |
-|Aki Rosenthal    |[I believe ~Umi no Soko kara~](https://youtu.be/IN0KT2ABM10)       |[Shallys](https://youtu.be/Ii7rtNaGlls)                                       |
+|Aki Rosenthal    |[I believe \~Umi no Soko kara~](https://youtu.be/IN0KT2ABM10)       |[Shallys](https://youtu.be/Ii7rtNaGlls)                                       |
 |Akai Haato       |[ECHO](https://youtu.be/Z8TnOhIxN90)                               |[Infinity](https://youtu.be/9mj2QJE-UOI)                                      |
 |Yuujin A         |[Ugoku Ugoku](https://youtu.be/yfEUPlRuPac)                        |[Azamina](https://youtu.be/88UYLWDjomE)                                       |
 |Sakura Miko      |[Akari ga yattekita zo](https://youtu.be/K57XcDsUl6A)              |[My name is elite☆](https://youtu.be/Y8o4goeVM0o)                             |
