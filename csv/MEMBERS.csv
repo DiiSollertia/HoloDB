@@ -19,7 +19,7 @@ id,name,status,debut_gen,debut_date,grad_date,yt_channel_id,yt_topic_id,spotify_
 18,Ookami Mio,1,GAMERS,2018-12-07,NULL,UCp-5t9SrOQwXMU7iIjQfARg,UCHYTTba2SyK82DuoFh1FLDg,539Z6h1XU1IripGR4rTtbz,ookamimio,NULL
 19,Nekomata Okayu,1,GAMERS,2019-04-06,NULL,UCvaTdHTWBGv3MKj3KVqJVCw,UCKnvC2XMqiXatNTK0N50LqA,28lO8lCOqFvDB5la90xKUW,nekomataokayu,NULL
 20,Inugami Korone,1,GAMERS,2019-04-13,NULL,UChAnqc_AY5_I3Px5dig3X1Q,UNDER VARIOUS ARTISTS,6EFbQU0BE4wGLdqBjey64b,inugamikorone,NULL
-21,Hanasaki Miyabi,1,STARS1,2019-06-08,NULL,UC6t3-_N8A6ME1JShZHHqOMw,UNDER VARIOUS ARTISTS,0DLUfyWV01bzlcb3FiDWTO	,miyabihanasaki,NULL
+21,Hanasaki Miyabi,1,STARS1,2019-06-08,NULL,UC6t3-_N8A6ME1JShZHHqOMw,UNDER VARIOUS ARTISTS,0DLUfyWV01bzlcb3FiDWTO,miyabihanasaki,NULL
 22,Kagami Kira,0,STARS1,2019-06-09,2020-11-30,UCEzsociuFqVwgZuMaZqaCsg,NULL,NULL,kagamikirach,NULL
 23,Kanade Izuru,1,STARS1,2019-06-22,NULL,UCZgOv3YDEs-ZnZWDYVwJdmA,UNDER VARIOUS ARTISTS,0asG3iGnDzxlo0S4O595Td,kanadeizuru,NULL
 24,Usada Pekora,1,Fantasy,2019-07-17,NULL,UC1DCedRgGHBdm81E1llLhOQ,UCOqODaLthpxW0rtOgLzLmAw,4JlcSp9i5LcilRSMqaVimt,usadapekora,NULL
@@ -48,7 +48,7 @@ id,name,status,debut_gen,debut_date,grad_date,yt_channel_id,yt_topic_id,spotify_
 47,Artia,0,CH2,2020-04-11,2020-11-19,NULL,NULL,NULL,Artia_OW,NULL
 48,Airani Iofifteen,1,ID1,2020-04-12,NULL,UCAoy6rzhSf4ydcYjJw3WoVg,NULL,NULL,airaniiofifteen,NULL
 49,Tsukishita Kaoru,0,TriNero,2020-04-29,2020-07-28,UCsehvfwaWF6nWuFnXI0AqZQ,NULL,NULL,tsukishitakaoru,NULL
-50,Kageyama Shien,1,TriNero,2020-04-30,NULL,UChSvpZYRPh0FvG4SJGSga3g,NULL,6Pjq6W7ZAitxgTvUfa9gGk,kageyamashien,NULL
+50,Kageyama Shien,1,TriNero,2020-04-30,NULL,UChSvpZYRPh0FvG4SJGSga3g,UNDER VARIOUS ARTISTS,6Pjq6W7ZAitxgTvUfa9gGk,kageyamashien,NULL
 51,Aragami Oga,1,TriNero,2020-05-01,NULL,UCwL7dgTxKo8Y4RFIKWaf8gA,UNDER VARIOUS ARTISTS,51y5hQaDx7FLqH0Lcm6ubZ,aragamioga,NULL
 52,Daidou Shinove,2,NULL,2020-07-11,NULL,NULL,NULL,NULL,daidoushinove,NULL
 53,Yukihana Lamy,1,JP5,2020-08-12,NULL,UCFKOVgVbGmX65RxO3EtH3iw,UNDER VARIOUS ARTISTS,0qysjJL9vlQUriZJRQmcVE,yukihanalamy,NULL
@@ -69,7 +69,7 @@ id,name,status,debut_gen,debut_date,grad_date,yt_channel_id,yt_topic_id,spotify_
 68,Ceres Fauna,1,-Council-,2021-08-22,NULL,UCO_aKKYxn4tvrqPjcTzZ6EQ,NULL,NULL,ceresfauna,NULL
 69,Ouro Kronii,1,-Council-,2021-08-22,NULL,UCmbs8T6MWqUHP1tIQvSgKrg,UNDER VARIOUS ARTISTS,NULL,ourokronii,NULL
 70,Nanashi Mumei,1,-Council-,2021-08-22,NULL,UC3n5uGu18FoCy23ggWWp8tA,UNDER VARIOUS ARTISTS,NULL,nanashimumei_en,NULL
-71,Hakos Baelz,1,-Council-,2021-08-22,NULL,UCgmPnx-EEeOrZSg5Tiw7ZRQ,NULL,NULL,hakosbaelz,NULL
+71,Hakos Baelz,1,-Council-,2021-08-22,NULL,UCgmPnx-EEeOrZSg5Tiw7ZRQ,UNDER VARIOUS ARTISTS,NULL,hakosbaelz,NULL
 72,La+ Darkness,1,holoX,2021-11-26,NULL,UCENwRMx5Yh42zWpzURebzTw,NULL,NULL,LaplusDarknesss,NULL
 73,Takane Lui,1,holoX,2021-11-27,NULL,UCs9_O1tRPMQTHQ-N_L6FU2g,NULL,NULL,takanelui,NULL
 74,Hakui Koyori,1,holoX,2021-11-28,NULL,UC6eWCld0KwmyHFbAqK3V-Rw,NULL,NULL,hakuikoyori,NULL

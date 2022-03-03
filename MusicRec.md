@@ -1,6 +1,6 @@
 # Curator's Recommendation for each Talent
 
-|Talent           |Cover                                                              |Original (if applicable)                                                      |
+|Holomem          |Cover                                                              |Original (if applicable)                                                      |
 |-----------------|-------------------------------------------------------------------|------------------------------------------------------------------------------|
 |Tokino Sora      |[Solar System Disco](https://youtu.be/wHw3jSvZxNI)                 |[I love you so much, I think I'm going to cry](https://youtu.be/LPEE4MMDieo)  |
 |Roboco           |[Vermont Kiss](https://youtu.be/uc7I72C1giU)                       |[kotonoha](https://youtu.be/5A_RqpENxvg)                                      |
@@ -8,7 +8,7 @@
 |Yozora Mel       |[Ai Kotoba](https://youtu.be/jW4q0w6CCIo)                          |[Chew the Night Sky](https://youtu.be/8iin3HQpwSY)                            |
 |Shirakami Fubuki |[Scatman](https://youtu.be/VaqLk1YCv-s)                            |[Say!Fanfare!](https://youtu.be/pFgUluV_00s)                                  |
 |Natsuiro Matsuri |[Kataomoi](https://youtu.be/TT6gTs2B1Uw)                           |[Kimi to Nagameru Natsu no Hana](https://youtu.be/llv_1-WEQGg)                |
-|Aki Rosenthal    |[I believe \~Umi no Soko kara~](https://youtu.be/IN0KT2ABM10)       |[Shallys](https://youtu.be/Ii7rtNaGlls)                                       |
+|Aki Rosenthal    |[I believe \~Umi no Soko kara~](https://youtu.be/IN0KT2ABM10)      |[Shallys](https://youtu.be/Ii7rtNaGlls)                                       |
 |Akai Haato       |[ECHO](https://youtu.be/Z8TnOhIxN90)                               |[Infinity](https://youtu.be/9mj2QJE-UOI)                                      |
 |Yuujin A         |[Ugoku Ugoku](https://youtu.be/yfEUPlRuPac)                        |[Azamina](https://youtu.be/88UYLWDjomE)                                       |
 |Sakura Miko      |[Akari ga yattekita zo](https://youtu.be/K57XcDsUl6A)              |[My name is elite☆](https://youtu.be/Y8o4goeVM0o)                             |
@@ -21,7 +21,7 @@
 |Ookami Mio       |[Sparkle](https://youtu.be/2l_6oIGTrbg)                            |[Howling](https://youtu.be/YPm9T622OX0)                                       |
 |Nekomata Okayu   |[flos](https://youtu.be/4muYzftomAE)                               |[Mogu Mogu YUMMY!](https://youtu.be/j6P_m6adkgc)                              |
 |Inugami Korone   |[Love Trial](https://youtu.be/G49bAinM6Lc)                         |[SAIKYO TENSAI WONDERFUL WORLD of KORONE](https://youtu.be/nks1I1sY53I)       |
-|Hanasaki Miyabi  |[Stickybug](https://youtu.be/STBJ_N3YLiw)                          |[Kaika Sengen](https://youtu.be/D62my61B5aQ)                                  |
+|Hanasaki Miyabi  |[Stickybug](https://youtu.be/STBJ_N3YLiw)                          |[Kaika Sengen](https://youtu.be/8cI76r7KvIs)                                  |
 |Kanade Izuru     |[Sorega anata no shiawase to shitemo](https://youtu.be/oPahzleK0Nk)|[Monologue in a row](https://youtu.be/_iBexWOf6aw)                            |
 |Usada Pekora     |[PEKORANDOMBRAIN](https://youtu.be/_KTwDH_KQ_g)                    |[Discommunication Alien](https://youtu.be/AAr2lHZLNyU)                        |
 |Uruha Rushia     |[Ghost In A Flower](https://youtu.be/UBSx4qqeikY)                  |[Iris](https://youtu.be/NtRpDpfE69Y)                                          |
@@ -48,7 +48,7 @@
 |Moona Hoshinova  |[VILLAIN](https://youtu.be/Jr3Z9qtBk7k)                            |[High Tide](https://youtu.be/stmZAThUl64)                                     |
 |Artia            |                                                                   |                                                                              |
 |Airani Iofifteen |[Taiyou ga Niau yo](https://youtu.be/Q4-h-IdOqLs)                  |[Q&A=E / Kyawaii](#)                                                          |
-|Kageyama Shien   |[MAFIA](https://youtu.be/QMUxZaE-odM)                              |[Pentas](https://youtu.be/D5_ktqaiaPw)                                        |
+|Kageyama Shien   |[MAFIA](https://youtu.be/QMUxZaE-odM)                              |[BEGINNING](https://youtu.be/D5_ktqaiaPw)                                     |
 |Aragami Oga      |[DADDY ! DADDY ! DO !](https://youtu.be/cos54QJsb7o)               |[Silent Night Requiem](https://youtu.be/sG8yKByxSR0)                          |
 |Yukihana Lamy    |[Love! Snow! Really Magic](https://youtu.be/JSOXoNVTy0g)           |[Asuenokyokaisen](https://youtu.be/ULtGHb83pTI)                               |
 |Momosuzu Nene    |[Watashi Idol Sengen](https://youtu.be/kKqcQADSoIM)                |[NENENENENENENENE!DAIBAKUSOU](https://youtu.be/7P5oggg7aSE)                   |
@@ -67,9 +67,9 @@
 |Ceres Fauna      |[Hikaru Nara](https://youtu.be/U-9M-BjFYMc)                        |N/A                                                                           |
 |Ouro Kronii      |[Fly Me To The Moon](https://youtu.be/CEWQXuQxEIU)                 |[Daydream](https://youtu.be/6W749jRBg-4)                                      |
 |Nanashi Mumei    |[Payphone](https://youtu.be/-wZhOWD43jk)                           |[A New Start](https://youtu.be/Py21QCndbxc)                                   |
-|Hakos Baelz      |[Hontou no Oto](https://youtu.be/AAwJ0_uqhb4)                      |N/A                                                                           |
+|Hakos Baelz      |[Hontou no Oto](https://youtu.be/AAwJ0_uqhb4)                      |[PLAY DICE](https://youtu.be/na6bysYNuS0)                                     |
 |La+ Darkness     |[God-ish](https://youtu.be/yTb_AvLchgY)                            |N/A                                                                           |
 |Takane Lui       |[Love ka?](https://youtu.be/7jDkn2TzxJk)                           |N/A                                                                           |
 |Hakui Koyori     |[Nh-Uh-Uh.](https://youtu.be/R3OxEcOpT0M)                          |N/A                                                                           |
-|Sakamata Chloe   |[Animal](https://youtu.be/s-wDgxGCj4g)                             |N/A                                                                           |
+|Sakamata Chloe   |[Animal](https://youtu.be/s-wDgxGCj4g)                             |[Life Reset Button Pochi W](https://youtu.be/IxOjRtMv3Cg)                     |
 |Kazama Iroha     |[Ochame Kinou](https://youtu.be/nCyKjz-ie3c)                       |N/A                                                                           |
