@@ -72,4 +72,4 @@
 |Takane Lui       |[Love ka?](https://youtu.be/7jDkn2TzxJk)                           |N/A                                                                           |
 |Hakui Koyori     |[Nh-Uh-Uh.](https://youtu.be/R3OxEcOpT0M)                          |N/A                                                                           |
 |Sakamata Chloe   |[Animal](https://youtu.be/s-wDgxGCj4g)                             |[Life Reset Button Pochi W](https://youtu.be/IxOjRtMv3Cg)                     |
-|Kazama Iroha     |[Ochame Kinou](https://youtu.be/nCyKjz-ie3c)                       |N/A                                                                           |
+|Kazama Iroha     |[Rain of Cherry Blossom Petals](https://youtu.be/D8pdSRs_C4o)      |N/A                                                                           |
