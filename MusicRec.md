@@ -1,5 +1,3 @@
-# Curator's Recommendation for each Talent
-
 |Holomem          |Cover                                                              |Original (if applicable)                                                      |
 |-----------------|-------------------------------------------------------------------|------------------------------------------------------------------------------|
 |Tokino Sora      |[Solar System Disco](https://youtu.be/wHw3jSvZxNI)                 |[I love you so much, I think I'm going to cry](https://youtu.be/LPEE4MMDieo)  |
@@ -41,12 +39,12 @@
 |Tsunomaki Watame |[Bubble Love](https://youtu.be/2I3oQIF6UaU)                        |[My song](https://youtu.be/6VGkeUaX-zk)                                       |
 |Tokoyami Towa    |[ERROR](https://youtu.be/3UV8OZj2olg)                              |[Palette](https://youtu.be/Ud73fm4Uoq0)                                       |
 |Himemori Luna    |[Sweets Parade](https://youtu.be/hPQFsU7ichI)                      |[Zettai Chuusei Nanonanora](https://youtu.be/LaZIY8bYf-k)                     |
-|Spade Echo       |                                                                   |                                                                              |
-|Doris            |                                                                   |                                                                              |
-|Rosalyn          |                                                                   |                                                                              |
+|Spade Echo       |                                                                   |N/A                                                                           |
+|Doris            |                                                                   |N/A                                                                           |
+|Rosalyn          |                                                                   |N/A                                                                           |
 |Ayunda Risu      |[Snow halation](https://youtu.be/uw9SUSvWBN0)                      |[ALiCE&u](https://youtu.be/IGviVpVE1fA)                                       |
 |Moona Hoshinova  |[VILLAIN](https://youtu.be/Jr3Z9qtBk7k)                            |[High Tide](https://youtu.be/stmZAThUl64)                                     |
-|Artia            |                                                                   |                                                                              |
+|Artia            |                                                                   |N/A                                                                           |
 |Airani Iofifteen |[Taiyou ga Niau yo](https://youtu.be/Q4-h-IdOqLs)                  |[Q&A=E / Kyawaii](#)                                                          |
 |Kageyama Shien   |[MAFIA](https://youtu.be/QMUxZaE-odM)                              |[BEGINNING](https://youtu.be/D5_ktqaiaPw)                                     |
 |Aragami Oga      |[DADDY ! DADDY ! DO !](https://youtu.be/cos54QJsb7o)               |[Silent Night Requiem](https://youtu.be/sG8yKByxSR0)                          |
@@ -58,7 +56,7 @@
 |Takanashi Kiara  |[Bokura no Ahiato](https://youtu.be/98Yx9TuE09A)                   |[HINOTORI](https://youtu.be/eDfMDkgheQY)                                      |
 |Ninomae Ina'nis  |[Tabi no Tochuu](https://youtu.be/NIv_yYKl9tQ)                     |[VIOLET](https://youtu.be/8ZdLXELdF9Q)                                        |
 |Gawr Gura        |[Target for Love](https://youtu.be/uCfjf3rvTJY)                    |[REFLECT](https://youtu.be/WGgEFoI9MhE)                                       |
-|Watson Amelia    |[Deck the Halls](https://youtu.be/IT7mfF97m3w)                     |[REGRET](https://youtu.be/Jj2JFtU7c78)                                        |
+|Watson Amelia    |[Ookami Blues](https://youtu.be/NOrfhrL0D9k)                       |[REGRET](https://youtu.be/Jj2JFtU7c78)                                        |
 |Kureiji Ollie    |[Saling Merindu](https://youtu.be/4IG4BYARwZI)                     |[Aniki he](https://youtu.be/R-sDmGmsNqo?t=1274)                               |
 |Anya Melfissa    |[Gira Gira](https://youtu.be/ZmM5OgXXVA4)                          |[id:entity voices](https://youtu.be/Wp90CrP-s_8)                              |
 |Pavolia Reine    |[KING](https://youtu.be/LfI8sxSFtuE)                               |[Gate Open: START!](https://youtu.be/VFpOBazE3rs)                             |
@@ -71,5 +69,12 @@
 |La+ Darkness     |[God-ish](https://youtu.be/yTb_AvLchgY)                            |N/A                                                                           |
 |Takane Lui       |[Love ka?](https://youtu.be/7jDkn2TzxJk)                           |N/A                                                                           |
 |Hakui Koyori     |[Nh-Uh-Uh.](https://youtu.be/R3OxEcOpT0M)                          |N/A                                                                           |
-|Sakamata Chloe   |[Animal](https://youtu.be/s-wDgxGCj4g)                             |[Life Reset Button Pochi W](https://youtu.be/IxOjRtMv3Cg)                     |
+|Sakamata Chloe   |[Animal](https://youtu.be/s-wDgxGCj4g)                             |[Kagayakashi](https://youtu.be/NmVGKfz0MEs)                                   |
 |Kazama Iroha     |[Rain of Cherry Blossom Petals](https://youtu.be/D8pdSRs_C4o)      |N/A                                                                           |
+|Vestia Zeta      |[Zankyosanka](https://youtu.be/wQ1_0oeXW6M)                        |N/A                                                                           |
+|Kaela Kovalskia  |N/A                                                                |N/A                                                                           |
+|Kobo Kanaeru     |N/A                                                                |[Mantra Hujan](https://youtu.be/SF-_47-oCtk)                                  |
+|Yatogami Fuma    |[KING](https://youtu.be/8pgLaALrlBE)                               |[???](https://youtu.be/ZAKNLeSjuVk)                                           |
+|Utsugi Uyu       |[KING](https://youtu.be/8pgLaALrlBE)                               |N/A                                                                           |
+|Hizaki Gamma     |[KING](https://youtu.be/8pgLaALrlBE)                               |N/A                                                                           |
+|Minase Rio       |[I wanted to dance in your pulse](https://youtu.be/pnKRl9KuTeU)    |N/A                                                                           |
