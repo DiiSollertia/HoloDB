@@ -57,23 +57,23 @@
 |Ninomae Ina'nis  |[Tabi no Tochuu](https://youtu.be/NIv_yYKl9tQ)                     |[VIOLET](https://youtu.be/8ZdLXELdF9Q)                                        |
 |Gawr Gura        |[Target for Love](https://youtu.be/uCfjf3rvTJY)                    |[REFLECT](https://youtu.be/WGgEFoI9MhE)                                       |
 |Watson Amelia    |[Ookami Blues](https://youtu.be/NOrfhrL0D9k)                       |[REGRET](https://youtu.be/Jj2JFtU7c78)                                        |
-|Kureiji Ollie    |[Saling Merindu](https://youtu.be/4IG4BYARwZI)                     |[Aniki he](https://youtu.be/R-sDmGmsNqo?t=1274)                               |
+|Kureiji Ollie    |[Saling Merindu](https://youtu.be/4IG4BYARwZI)                     |[JOLLIE JOLLIE](https://youtu.be/2ZqtRc3fa_s)                                 |
 |Anya Melfissa    |[Gira Gira](https://youtu.be/ZmM5OgXXVA4)                          |[id:entity voices](https://youtu.be/Wp90CrP-s_8)                              |
 |Pavolia Reine    |[KING](https://youtu.be/LfI8sxSFtuE)                               |[Gate Open: START!](https://youtu.be/VFpOBazE3rs)                             |
 |IRyS             |[Shiny Smily Story](https://youtu.be/mDN9o6GQdm4)                  |[Caesura of Despair](https://youtu.be/rDyZ3VgjcCE)                            |
-|Tsukumo Sana     |[Hikaru Nara](https://youtu.be/U-9M-BjFYMc)                        |N/A                                                                           |
-|Ceres Fauna      |[Hikaru Nara](https://youtu.be/U-9M-BjFYMc)                        |N/A                                                                           |
+|Tsukumo Sana     |[Hikaru Nara](https://youtu.be/U-9M-BjFYMc)                        |[Astrogirl](https://youtu.be/R8y1aWMlPOs)                                     |
+|Ceres Fauna      |[Hikaru Nara](https://youtu.be/U-9M-BjFYMc)                        |[Let Me Stay Here](https://youtu.be/0RMVJTLZOzQ)                              |
 |Ouro Kronii      |[Fly Me To The Moon](https://youtu.be/CEWQXuQxEIU)                 |[Daydream](https://youtu.be/6W749jRBg-4)                                      |
-|Nanashi Mumei    |[Payphone](https://youtu.be/-wZhOWD43jk)                           |[A New Start](https://youtu.be/Py21QCndbxc)                                   |
+|Nanashi Mumei    |[Dilemma](https://youtu.be/x_MPvKf0IDE)                            |[A New Start](https://youtu.be/Py21QCndbxc)                                   |
 |Hakos Baelz      |[Hontou no Oto](https://youtu.be/AAwJ0_uqhb4)                      |[PLAY DICE](https://youtu.be/na6bysYNuS0)                                     |
-|La+ Darkness     |[God-ish](https://youtu.be/yTb_AvLchgY)                            |N/A                                                                           |
+|La+ Darkness     |[God-ish](https://youtu.be/yTb_AvLchgY)                            |[Aien-Jihen](https://youtu.be/9Kjuzcwqou8)                                    |
 |Takane Lui       |[Love ka?](https://youtu.be/7jDkn2TzxJk)                           |N/A                                                                           |
-|Hakui Koyori     |[Nh-Uh-Uh.](https://youtu.be/R3OxEcOpT0M)                          |N/A                                                                           |
-|Sakamata Chloe   |[Animal](https://youtu.be/s-wDgxGCj4g)                             |[Kagayakashi](https://youtu.be/NmVGKfz0MEs)                                   |
+|Hakui Koyori     |[Nh-Uh-Uh.](https://youtu.be/R3OxEcOpT0M)                          |[Yachatta toki ni utau uta](https://youtu.be/VyeOMeUgbeM)                     |
+|Sakamata Chloe   |[nisemono ningen40gou](https://youtu.be/dHGM8bZ0qfg)               |[Kagayakashi](https://youtu.be/NmVGKfz0MEs)                                   |
 |Kazama Iroha     |[Rain of Cherry Blossom Petals](https://youtu.be/D8pdSRs_C4o)      |N/A                                                                           |
 |Vestia Zeta      |[Zankyosanka](https://youtu.be/wQ1_0oeXW6M)                        |N/A                                                                           |
 |Kaela Kovalskia  |N/A                                                                |N/A                                                                           |
-|Kobo Kanaeru     |N/A                                                                |[Mantra Hujan](https://youtu.be/SF-_47-oCtk)                                  |
+|Kobo Kanaeru     |[Renai Circulation](https://youtu.be/zzDtTiE71q0?t=1210)           |[Mantra Hujan](https://youtu.be/SF-_47-oCtk)                                  |
 |Yatogami Fuma    |[KING](https://youtu.be/8pgLaALrlBE)                               |[???](https://youtu.be/ZAKNLeSjuVk)                                           |
 |Utsugi Uyu       |[KING](https://youtu.be/8pgLaALrlBE)                               |N/A                                                                           |
 |Hizaki Gamma     |[KING](https://youtu.be/8pgLaALrlBE)                               |N/A                                                                           |
