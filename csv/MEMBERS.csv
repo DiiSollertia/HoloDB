@@ -34,7 +34,7 @@ id,name,status,debut_gen,debut_date,grad_date,yt_channel_id,yt_topic_id,spotify_
 33,Civia,0,CH1,2019-11-01,2020-11-18,UCgNVXGlZIFK96XdEY20sVjg,NULL,NULL,_Civia,NULL
 34,Astel Leda,1,SunTempo,2019-12-07,NULL,UCNVEsYbiZjH5QLmGeSgTSzg,UNDER VARIOUS ARTISTS,4OmOWaMOm0N7X2GE93tvTZ,astelleda,NULL
 35,Kishido Temma,1,SunTempo,2019-12-14,NULL,UCGNI4MENvnsymYjKiZwv9eg,UNDER VARIOUS ARTISTS,5gTlfT6qniQ05RaRcnZSdp,kishidotemma,NULL
-36,Yukoku Roberu,1,SunTempo,2019-12-24,NULL,UCANDOlYTJT7N5jlRC3zfzVA,NULL,49VPZqdN3rQ9oHtkHrIfNN,yukokuroberu,NULL
+36,Yukoku Roberu,1,SunTempo,2019-12-24,NULL,UCANDOlYTJT7N5jlRC3zfzVA,UCM3h8455hHsMBobYV5v6RWw,49VPZqdN3rQ9oHtkHrIfNN,yukokuroberu,NULL
 37,Amane Kanata,1,JP4,2019-12-27,NULL,UCZlDXzGoo7d44bwdNObFacg,UCPCiIrrrNJOKvi_5vr3G6PA,3xYcccivSuAU13ZHypWoNW,amanekanatach,NULL
 38,Kiryu Coco,0,JP4,2019-12-28,2021-07-01,UCS9uQI-jC3DE0L4IpXyvr6w,NULL,6UVwgcSAKl0SZ9plRC59VQ,kiryucoco,NULL
 39,Tsunomaki Watame,1,JP4,2019-12-29,NULL,UCqm3BQLlJfvkTsX_hvm0UmA,UCX2NCyh8ipCoydn1iKWyM_Q,68609MOnEU86kVyMf26JnM,tsunomakiwatame,RK Music yt_topic_id: UCS_9XZ5bmsfWIP2pFyDh8ZA
@@ -72,15 +72,19 @@ id,name,status,debut_gen,debut_date,grad_date,yt_channel_id,yt_topic_id,spotify_
 71,Hakos Baelz,1,-Council-,2021-08-22,NULL,UCgmPnx-EEeOrZSg5Tiw7ZRQ,UNDER VARIOUS ARTISTS,NULL,hakosbaelz,NULL
 72,Omegaα,2,-Council-,2021-08-23,NULL,UCKYyiJwNg2nV7hM86U5_wvw,NULL,NULL,omegaalpha_en,NULL
 73,La+ Darkness,1,holoX,2021-11-26,NULL,UCENwRMx5Yh42zWpzURebzTw,UNDER VARIOUS ARTISTS,6bqjeuZSue05I1koJvEl0d,LaplusDarknesss,NULL
-74,Takane Lui,1,holoX,2021-11-27,NULL,UCs9_O1tRPMQTHQ-N_L6FU2g,NULL,NULL,takanelui,NULL
-75,Hakui Koyori,1,holoX,2021-11-28,NULL,UC6eWCld0KwmyHFbAqK3V-Rw,NULL,NULL,hakuikoyori,NULL
+74,Takane Lui,1,holoX,2021-11-27,NULL,UCs9_O1tRPMQTHQ-N_L6FU2g,UNDER VARIOUS ARTISTS,3sTxby2WaF9fXznsLp42IS,takanelui,NULL
+75,Hakui Koyori,1,holoX,2021-11-28,NULL,UC6eWCld0KwmyHFbAqK3V-Rw,UNDER VARIOUS ARTISTS,6wzg6ZJ9dBUoOuk0hs2Ert,hakuikoyori,NULL
 76,Sakamata Chloe,1,holoX,2021-11-29,NULL,UCIBY1ollUsauvVi4hW4cumw,NULL,NULL,sakamatachloe,NULL
 77,Kazama Iroha,1,holoX,2021-11-30,NULL,UC_vMYWcDjmfdpH6r4TTn1MQ,NULL,NULL,kazamairohach,NULL
 78,Vestia Zeta,1,ID3,2022-03-25,NULL,UCTvHWSfBZgtxE4sILOaurIQ,NULL,NULL,vestiazeta,NULL
 79,Kaela Kovalskia,1,ID3,2022-03-26,NULL,UCZLZ8Jjx_RN2CXloOmgTHVg,NULL,NULL,kaelakovalskia,NULL
-80,Kobo Kanaeru,1,ID3,2022-03-27,NULL,UCjLEmnpCNeisMxy134KPwWw,NULL,NULL,kobokanaeru,NULL
+80,Kobo Kanaeru,1,ID3,2022-03-27,NULL,UCjLEmnpCNeisMxy134KPwWw,UNDER VARIOUS ARTISTS,5UntIMNlzgN2WmnaZ6FHcc,kobokanaeru,NULL
 81,Yatogami Fuma,1,UPROAR!!,2022-03-29,NULL,UCc88OV45ICgHbn3ZqLLb52w,NULL,NULL,yatogamifuma,NULL
 82,Utsugi Uyu,1,UPROAR!!,2022-03-29,NULL,UCgRqGV1gBf2Esxh0Tz1vxzw,NULL,NULL,utsugiuyu,NULL
 83,Hizaki Gamma,1,UPROAR!!,2022-03-30,NULL,UCkT1u65YS49ca_LsFwcTakw,NULL,NULL,hizakigamma,NULL
 84,Minase Rio,1,UPROAR!!,2022-03-30,NULL,UCdfMHxjcCc2HSd9qFvfJgjg,NULL,NULL,minaserioch,NULL
 85,Harusaki Nodoka,2,NULL,2022-04-01,NULL,NULL,NULL,NULL,harusakinodoka,NULL
+86,Regis Altare,1,TEMPUS,2022-07-22,NULL,UCyxtGMdWlURZ30WSnEjDOQw,NULL,NULL,regisaltare,NULL
+87,Magni Dezmond,1,TEMPUS,2022-07-22,NULL,UC7MMNHR-kf9EN1rXiesMTMw,NULL,NULL,magnidezmond,NULL
+88,Axel Syrios,1,TEMPUS,2022-07-23,NULL,UC2hx0xVkMoHGWijwr_lA01w,NULL,NULL,axelsyrios,NULL
+89,Noir Vesper,1,TEMPUS,2022-07-23,NULL,UCDRWSO281bIHYVi-OV3iFYA,NULL,NULL,noirvesper_en,NULL

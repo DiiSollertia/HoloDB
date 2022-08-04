@@ -45,7 +45,7 @@
 |Ayunda Risu      |[Snow halation](https://youtu.be/uw9SUSvWBN0)                      |[ALiCE&u](https://youtu.be/IGviVpVE1fA)                                       |
 |Moona Hoshinova  |[VILLAIN](https://youtu.be/Jr3Z9qtBk7k)                            |[High Tide](https://youtu.be/stmZAThUl64)                                     |
 |Artia            |                                                                   |N/A                                                                           |
-|Airani Iofifteen |[Taiyou ga Niau yo](https://youtu.be/Q4-h-IdOqLs)                  |[Q&A=E / Kyawaii](#)                                                          |
+|Airani Iofifteen |[Dekat di Hati](https://youtu.be/mDfG11QYZl4)                      |[Q&A=E / Kyawaii](#)                                                          |
 |Kageyama Shien   |[MAFIA](https://youtu.be/QMUxZaE-odM)                              |[BEGINNING](https://youtu.be/D5_ktqaiaPw)                                     |
 |Aragami Oga      |[DADDY ! DADDY ! DO !](https://youtu.be/cos54QJsb7o)               |[Silent Night Requiem](https://youtu.be/sG8yKByxSR0)                          |
 |Yukihana Lamy    |[Love! Snow! Really Magic](https://youtu.be/JSOXoNVTy0g)           |[Asuenokyokaisen](https://youtu.be/ULtGHb83pTI)                               |
@@ -74,7 +74,11 @@
 |Vestia Zeta      |[Zankyosanka](https://youtu.be/wQ1_0oeXW6M)                        |N/A                                                                           |
 |Kaela Kovalskia  |N/A                                                                |N/A                                                                           |
 |Kobo Kanaeru     |[Renai Circulation](https://youtu.be/zzDtTiE71q0?t=1210)           |[Mantra Hujan](https://youtu.be/SF-_47-oCtk)                                  |
-|Yatogami Fuma    |[KING](https://youtu.be/8pgLaALrlBE)                               |[???](https://youtu.be/ZAKNLeSjuVk)                                           |
+|Yatogami Fuma    |[KING](https://youtu.be/8pgLaALrlBE)                               |[infection](https://youtu.be/LrYbhOOS_yo)                                  |
 |Utsugi Uyu       |[KING](https://youtu.be/8pgLaALrlBE)                               |N/A                                                                           |
 |Hizaki Gamma     |[KING](https://youtu.be/8pgLaALrlBE)                               |N/A                                                                           |
 |Minase Rio       |[I wanted to dance in your pulse](https://youtu.be/pnKRl9KuTeU)    |N/A                                                                           |
+|Regis Altare     |[Heartache](https://youtu.be/KS6NYbx6Rp4)                          |N/A                                                                           |
+|Magni Dezmond  |N/A                                                                  |N/A                                                                           |
+|Axel Syrios  |[Unaware Drunkard](https://youtu.be/UvSKHYzB82M)                       |N/A                                                                           |
+|Noir Vesper  |N/A                                                                    |N/A                                                                           |
