@@ -19,7 +19,7 @@ id,title,type,release_date,spotify_id,album_id,track_no
 18,The Boy and Magic Robot,1,2018-09-20,NULL,NULL,NULL
 19,Yumeji Labyrinth,1,2018-09-20,NULL,NULL,NULL
 20,Genesis of Aquarion,1,2018-09-24,NULL,NULL,NULL
-21,rain stops, good-bye,1,2018-09-30,NULL,NULL,NULL
+21,"rain stops, good-bye",1,2018-09-30,NULL,NULL,NULL
 22,Ayano's Theory of Happiness,1,2018-10-01,NULL,NULL,NULL
 23,Wistful Record,0,2018-10-04,2L4iHhnKqa2up7J9sK6tnZ,2,8
 24,PLATONIC GIRL,1,2018-10-08,NULL,NULL,NULL
@@ -35,7 +35,7 @@ id,title,type,release_date,spotify_id,album_id,track_no
 34,comet,0,2018-11-22,5ZfIWQXhZdmxRemkyUUqfN,NULL,NULL
 35,Geki! Teikoku Kagekidan,1,2018-11-23,NULL,NULL,NULL
 36,only my railgun,1,2018-11-27,NULL,NULL,NULL
-37,Ah, It's a Wonderful Cat Life,1,2018-11-30,NULL,NULL,NULL
+37,"Ah, It's a Wonderful Cat Life",1,2018-11-30,NULL,NULL,NULL
 38,My Dearest,1,2018-12-06,NULL,NULL,NULL
 39,Iya Iya-chan no Uta,1,2018-12-08,NULL,NULL,NULL
 40,Sonna Ame no Hi ni wa,0,2018-12-12,5DdDt4TKlt4MQLttagznMM,2,10
@@ -43,7 +43,7 @@ id,title,type,release_date,spotify_id,album_id,track_no
 42,Umi yori fukai sora no shita,0,2018-12-18,63pZZ3mXw7OVrVAtWo2p7S,2,9
 43,Orange,1,2018-12-20,NULL,NULL,NULL
 44,Sweets Parade,1,2018-12-21,NULL,NULL,NULL
-45,Please, darling,1,2018-12-24,NULL,NULL,NULL
+45,"Please, darling",1,2018-12-24,NULL,NULL,NULL
 46,melty world,1,2018-12-24,NULL,NULL,NULL
 47,Miracle Paint,1,2018-12-24,NULL,NULL,NULL
 48,Shinsekai,1,2018-12-25,NULL,NULL,NULL
@@ -66,7 +66,7 @@ id,title,type,release_date,spotify_id,album_id,track_no
 65,Heart & Trick,1,2019-02-10,NULL,NULL,NULL
 66,Shine!!,1,2019-02-13,NULL,NULL,NULL
 67,Valentine Kiss,1,2019-02-14,NULL,NULL,NULL
-68,Please, darling,1,2019-02-14,NULL,NULL,NULL
+68,"Please, darling",1,2019-02-14,NULL,NULL,NULL
 69,Indoor Kei nara Trackmaker,1,2019-02-14,NULL,NULL,NULL
 70,Milk Tea,1,2019-02-15,NULL,NULL,NULL
 71,Intertwined,1,2019-02-16,NULL,NULL,NULL
@@ -91,7 +91,7 @@ id,title,type,release_date,spotify_id,album_id,track_no
 90,Saenai Jibun ni Love Song o,0,2019-03-27,3sf7PFQ6ZTVgZVXrefTcMF,2,5
 91,IMAGE source,0,2019-03-27,69e0snJrn4F3IvAS8qy5vY,2,6
 92,Metro Night,0,2019-03-27,30gwCaYzcU3jhsmSYDan4U,2,11
-93,I love you so much, I think I’m going to cry,0,2019-03-27,56uLtWhFjILLmGIufmcv50,2,13
+93,"I love you so much, I think I’m going to cry",0,2019-03-27,56uLtWhFjILLmGIufmcv50,2,13
 94,Starry Regrets,0,2019-03-28,6jyBRo78hAwE82UjSIXMYG,NULL,NULL
 95,Otome Dissection,1,2019-03-31,NULL,NULL,NULL
 96,Ayano's Theory of Happiness,1,2019-04-04,NULL,NULL,NULL
@@ -107,7 +107,7 @@ id,title,type,release_date,spotify_id,album_id,track_no
 106,Inochi,3,2019-04-30,54vgHPOH9dvQJQ1VDDll5C,NULL,NULL
 107,Fake.Fake.Fake,3,2019-04-30,2Ry3Dh3961tMDiEztJF2vg,NULL,NULL
 108,Wholeheartedly,1,2019-05-05,NULL,NULL,NULL
-109,Goodbye, Ms. Floral Thief,1,2019-05-05,NULL,NULL,NULL
+109,"Goodbye, Ms. Floral Thief",1,2019-05-05,NULL,NULL,NULL
 110,Utakata Mugen,1,2019-05-08,NULL,NULL,NULL
 111,HAPPY BIRTHDAY,1,2019-05-13,NULL,NULL,NULL
 112,Booo!,1,2019-05-25,NULL,NULL,NULL
@@ -127,7 +127,7 @@ id,title,type,release_date,spotify_id,album_id,track_no
 126,from A to Z,0,2019-07-01,6ATf4wXi52Cewd0BGpkmTW,NULL,NULL
 127,Moffu Moffu DE Yoinoja yo,1,2019-07-03,NULL,NULL,NULL
 128,Love Song,1,2019-07-08,NULL,NULL,NULL
-129,Don't say "lazy",1,2019-07-12,NULL,NULL,NULL
+129,Don't say ""lazy"",1,2019-07-12,NULL,NULL,NULL
 130,Creating World (Jun Kuroda Remix),2,2019-07-17,NULL,NULL,NULL
 131,Remote Control,1,2019-07-19,NULL,NULL,NULL
 132,Gift,1,2019-07-20,NULL,NULL,NULL
@@ -184,7 +184,7 @@ id,title,type,release_date,spotify_id,album_id,track_no
 183,kimiiro ni somaru,1,2019-10-12,NULL,NULL,NULL
 184,Asagao no Uta,1,2019-10-17,NULL,NULL,NULL
 185,Akatsuki no Kuruma,1,2019-10-25,NULL,NULL,NULL
-186,LiE,LiE,LiE,LiE,0,2019-10-27,5ZaoY79bRYhD9VnYsOMZQn,7,3
+186,"LiE,LiE,LiE,LiE",0,2019-10-27,5ZaoY79bRYhD9VnYsOMZQn,7,3
 187,fragile,1,2019-10-29,3rkc9WlCs3xVxOdRqOVgQF,6,4
 188,Akari ga yattekita zo,1,2019-10-29,NULL,NULL,NULL
 189,SEKAI HA MEGURI YAGATE KIMI NO MONO NI NARU,0,2019-10-30,3cb8c1t83B5mrLTmQwCWHr,7,7
@@ -217,7 +217,7 @@ id,title,type,release_date,spotify_id,album_id,track_no
 216,Hakujitsu,1,2019-12-01,NULL,NULL,NULL
 217,〇〇〇〇〇,1,2019-12-04,NULL,NULL,NULL
 218,Love Trial,1,2019-12-07,NULL,NULL,NULL
-219,Take Me Home, Country Roads,1,2019-12-08,NULL,NULL,NULL
+219,"Take Me Home, Country Roads",1,2019-12-08,NULL,NULL,NULL
 220,Ubiquitous dB,1,2019-12-08,NULL,NULL,NULL
 221,Solar System Disco,1,2019-12-09,NULL,NULL,NULL
 222,Last Christmas,1,2019-12-12,NULL,NULL,NULL
@@ -270,7 +270,7 @@ id,title,type,release_date,spotify_id,album_id,track_no
 269,Fuyu Biyori,1,2020-02-04,NULL,NULL,NULL
 270,Wonderland,0,2020-02-06,50UFxsU1tKy3vjYAshSUJB,9,2
 271,Tokyo Teddy Bear,1,2020-02-08,NULL,NULL,NULL
-272,rain stops, good-bye,1,2020-02-11,NULL,NULL,NULL
+272,"rain stops, good-bye",1,2020-02-11,NULL,NULL,NULL
 273,Chocolate Pandemic,0,2020-02-14,NULL,NULL,NULL
 274,Valentine Kiss,1,2020-02-14,NULL,NULL,NULL
 275,Insensitive Boyfriend,1,2020-02-14,NULL,NULL,NULL
@@ -325,7 +325,7 @@ id,title,type,release_date,spotify_id,album_id,track_no
 324,Hikari,0,2020-04-15,0tNoF9SScfaQ4mT0zNXYSq,NULL,NULL
 325,Hikari - TEMPLINE Remix,3,2020-04-15,1t2oDujs0LawZVlNXybAyP,NULL,NULL
 326,Preserved Roses,1,2020-04-18,NULL,NULL,NULL
-327,DingTalk, Begging for Mercy Online,1,2020-04-21,NULL,NULL,NULL
+327,"DingTalk, Begging for Mercy Online",1,2020-04-21,NULL,NULL,NULL
 328,Astronomia,1,2020-04-22,NULL,NULL,NULL
 329,Heroine Ikusei Keikaku,1,2020-04-22,NULL,NULL,NULL
 330,Country Roads,1,2020-04-26,NULL,NULL,NULL
@@ -376,9 +376,9 @@ id,title,type,release_date,spotify_id,album_id,track_no
 375,Shiawase usagi PekoMikoMarine,2,2020-06-26,5l2VTJVBHjq0hfX07DZXlg,12,5
 376,Earphones romance,2,2020-06-26,0cKMvNJhU6SnTIXPnnkxw9,12,7
 377,Over the Border,2,2020-06-26,2h48Wre3D2sFx1Dln4aWm8,12,10
-378,Help me, ERINNNNNN!! #Gensokyo holoism ver.,2,2020-06-26,4gZ1kx9EwJ8DF3zFfgmRhm,12,12
+378,"Help me, ERINNNNNN!! #Gensokyo holoism ver.,2",2020-06-26,4gZ1kx9EwJ8DF3zFfgmRhm,12,12
 379,koi no mahou,1,2020-06-26,NULL,NULL,NULL
-380,Boku no Yume, Mechakuso Mugen Waki,1,2020-06-27,NULL,NULL,NULL
+380,"Boku no Yume, Mechakuso Mugen Waki",1,2020-06-27,NULL,NULL,NULL
 381,Re:Hello world,0,2020-06-28,00RXJeL97djOpsAp0AhFEi,NULL,NULL
 382,Champagne day,1,2020-06-28,NULL,NULL,NULL
 383,AI WO KOMETE HANATABAWO,1,2020-06-28,NULL,NULL,NULL
@@ -432,7 +432,7 @@ id,title,type,release_date,spotify_id,album_id,track_no
 431,Kawaikunaritai,1,2020-09-10,NULL,NULL,NULL
 432,The Song of a Broken/Loved Youkai Who Loved a Human,1,2020-09-11,NULL,NULL,NULL
 433,Reaper or Rapper? Introduction Rap,0,2020-09-12,5hv7Kq6CGGI9tkoT8yZZKs,14,1
-434,Excuse My Rudeness, But Could You Please RIP?♡,0,2020-09-12,4luSvNPtu6emYsaTOHrguR,14,2
+434,"Excuse My Rudeness, But Could You Please RIP?♡",0,2020-09-12,4luSvNPtu6emYsaTOHrguR,14,2
 435,Angel,1,2020-09-13,NULL,NULL,NULL
 436,DEAD BEATS,0,2020-09-15,3ZkYgSk8cIqOlvBlK7IV6C,14,3
 437,Kaede,1,2020-09-15,NULL,NULL,NULL
@@ -473,7 +473,7 @@ id,title,type,release_date,spotify_id,album_id,track_no
 472,Let's Dance! Maimai Time,0,2020-10-21,245o74jaAOpV3vNWzYX4Oa,16,7
 473,Aozora no Symphony,0,2020-10-21,3KlvttL0IoLsmBsoolCQKv,16,8
 474,Platinum Disco,1,2020-10-21,NULL,NULL,NULL
-475,Halloween Night, Tonight!,0,2020-10-22,3eRKkPO7ykGf1kRq8YmZm5,NULL,NULL
+475,"Halloween Night, Tonight!",0,2020-10-22,3eRKkPO7ykGf1kRq8YmZm5,NULL,NULL
 476,Oogeo Diamond,1,2020-10-23,NULL,17,0
 477,Stay Alive,1,2020-10-24,NULL,NULL,NULL
 478,For The Win,3,2020-10-26,NULL,NULL,NULL
@@ -577,7 +577,7 @@ id,title,type,release_date,spotify_id,album_id,track_no
 576,STARDUST SONG - Bouquet ver.,4,2021-02-17,4Ju04xI4CsKZ3JfO2saKeV,20,4
 577,Hyakka Ryoran Hanafubuki - Bouquet ver.,4,2021-02-17,55yuVCE9xw1ABkgwSNHDYU,20,5
 578,DAILY DIARY - Bouquet ver.,4,2021-02-17,153ZefNED7ldVhCBBzQtmM,20,6
-579,Halloween Night, Tonight! - Bouquet ver.,4,2021-02-17,2HwGr1kk27kfaUEH40BLUv,20,7
+579,"Halloween Night, Tonight! - Bouquet ver.",4,2021-02-17,2HwGr1kk27kfaUEH40BLUv,20,7
 580,Suspect - Bouquet ver.,4,2021-02-17,37OcLjDuiayFXwS66yE1Fm,20,8
 581,Candy-Go-Round - Bouquet ver.,4,2021-02-17,15s8k2oQs8A8nXrXZTu4Ri,20,9
 582,AsuiroClearSky - Bouquet ver.,4,2021-02-17,6LqzhimW8t59ddQmX0vmjk,20,10
@@ -611,7 +611,7 @@ id,title,type,release_date,spotify_id,album_id,track_no
 610,Misteavous Myth-buster,0,2021-03-14,4DOn2rVGWjv2cludaoNnLD,21,5
 611,KumoHurray!,0,2021-03-15,5uwVPy5HQSagarEVj4emPd,NULL,NULL
 612,Hana Dokino Sora,2,2021-03-16,NULL,NULL,NULL
-613,I love you so much, I think I’m going to cry,2,2021-03-17,NULL,NULL,NULL
+613,"I love you so much, I think I’m going to cry",2,2021-03-17,NULL,NULL,NULL
 614,Tsuki to Taiyou no Meguri,1,2021-03-23,NULL,NULL,NULL
 615,spiral tones,0,2021-03-25,6T1Fh5bxr1nRVKsGCAPxUq,NULL,NULL
 616,Archive,0,2021-03-25,5QexzekFLgMpyfm29GC5Qh,NULL,NULL
@@ -649,7 +649,7 @@ id,title,type,release_date,spotify_id,album_id,track_no
 648,STARDUST SONG - Midnight ver.,2,2021-05-01,3J4IovggAGkrRRGAJy5QVw,25,4
 649,Hyakka Ryoran Hanafubuki - Midnight ver.,2,2021-05-01,0NyEpyn8lGCo5aZ6IzDmUZ,25,5
 650,DAILY DIARY - Midnight ver.,2,2021-05-01,5G5VJ7ucw59XGTP2xFLzd1,25,6
-651,Halloween Night, Tonight! - Midnight ver.,2,2021-05-01,399dE5GZ0yGN7nNsN3pA8X,25,7
+651,"Halloween Night, Tonight! - Midnight ver.",2,2021-05-01,399dE5GZ0yGN7nNsN3pA8X,25,7
 652,Suspect - Midnight ver.,2,2021-05-01,0jREB08ILwERtLq7PXfUsu,25,8
 653,Candy-Go-Round - Midnight ver.,2,2021-05-01,4g0dh8fckmoSNoUXWFUIBZ,25,9
 654,AsuiroClearSky - Midnight ver.,2,2021-05-01,3chVhtohXb5vZsd4ySqFZQ,25,10
@@ -675,7 +675,7 @@ id,title,type,release_date,spotify_id,album_id,track_no
 674,Infinity,0,2021-06-03,NULL,NULL,NULL
 675,Naisho no Hanashi,1,2021-06-05,NULL,NULL,NULL
 676,Aniki he,0,2021-06-06,NULL,NULL,NULL
-677,Reincarnation Ascension "Ten Sho Sho Ten Sho",1,2021-06-10,NULL,NULL,NULL
+677,Reincarnation Ascension ""Ten Sho Sho Ten Sho"",1,2021-06-10,NULL,NULL,NULL
 678,The Vampire,1,2021-06-12,NULL,NULL,NULL
 679,Cute na Kanojo,1,2021-06-12,NULL,NULL,NULL
 680,GETCHA!,1,2021-06-15,NULL,NULL,NULL
@@ -701,7 +701,7 @@ id,title,type,release_date,spotify_id,album_id,track_no
 700,Yellow Vacation,1,2021-07-06,NULL,NULL,NULL
 701,SPARKS,0,2021-07-07,46scODShYFATHbLfLE0dr1,NULL,NULL
 702,Run,0,2021-07-09,57aMnr5dXnGcmBoWU5vXuN,NULL,NULL
-703,sweet night, sweet time…,0,2021-07-09,0gwrycZF40lOqwF9cwLwGj,41,NULL
+703,"sweet night, sweet time…",0,2021-07-09,0gwrycZF40lOqwF9cwLwGj,41,NULL
 704,p.h.,1,2021-07-09,NULL,NULL,NULL
 705,Caesura of Despair,0,2021-07-11,6QVpYEdrtbNgraup4j7Z2j,28,1
 706,diorama,0,2021-07-11,2KURKfI9nOUQcQMCaSsxxx,28,2
@@ -753,7 +753,7 @@ id,title,type,release_date,spotify_id,album_id,track_no
 752,SelfishDazzling,3,2021-08-17,0Uscki5AtDPNsosWA6S2xN,NULL,NULL
 753,summertime,1,2021-08-18,NULL,NULL,NULL
 754,Tokusya-Seizon Wonder-la-der!!,0,2021-08-19,5dNsClrMrKih5fTFbZ0t6D,NULL,NULL
-755,mayday,mayday,0,2021-08-19,3nffUBiOJwEJ4AkESSkoqp,NULL,NULL
+755,"mayday,mayday",0,2021-08-19,3nffUBiOJwEJ4AkESSkoqp,NULL,NULL
 756,Howling,0,2021-08-20,250Zat00GCzOBvPUxq7ERR,NULL,NULL
 757,Wan Wan! Waoon,0,2021-08-20,5mV3WDEBAJoDpAu6OYYTEZ,NULL,NULL
 758,Sashimio,2,2021-08-20,1reEzWR67BbsUltr2fVubs,NULL,NULL
@@ -776,7 +776,7 @@ id,title,type,release_date,spotify_id,album_id,track_no
 775,ChocoLove,0,2021-09-04,7yizeuKaX027gnbk68COyx,NULL,NULL
 776,It’s not like I’m mentally ill!!,1,2021-09-05,NULL,NULL,NULL
 777,BAD WORD RAP,2,2021-09-05,NULL,NULL,NULL
-778,why, or why not,1,2021-09-06,NULL,NULL,NULL
+778,"why, or why not",1,2021-09-06,NULL,NULL,NULL
 779,☆V☆E☆A☆H☆,1,2021-09-07,NULL,NULL,NULL
 780,Everlasting Soul,0,2021-09-09,53MvNShDTPYxBghQCHQSyR,NULL,NULL
 781,Gate Open: START!,0,2021-09-09,1UkMdn16fZMqFTeU4Ne0WJ,NULL,NULL
@@ -815,7 +815,7 @@ id,title,type,release_date,spotify_id,album_id,track_no
 814,The Religion of Loneliness,1,2021-09-30,NULL,NULL,NULL
 815,Houki Gumo,1,2021-09-30,NULL,NULL,NULL
 816,end of a life,0,2021-10-01,0i2THDeAhJma8FrUVy90No,NULL,NULL
-817,Yoi no Yo, Yoi!,0,2021-10-02,2eTniD5ZO9ypU9tmFOYsqp,NULL,NULL
+817,"Yoi no Yo, Yoi!",0,2021-10-02,2eTniD5ZO9ypU9tmFOYsqp,NULL,NULL
 818,Umapyoi Densetsu,1,2021-10-03,NULL,NULL,NULL
 819,Vidro Moyou,1,2021-10-04,NULL,NULL,NULL
 820,Pleiades!,0,2021-10-07,5LxmEYp42yxYmdlsVhENzn,33,1
@@ -880,8 +880,8 @@ id,title,type,release_date,spotify_id,album_id,track_no
 879,Bluerose - Twilight ver.,2,2021-11-27,3rtvDPCHJPRnQYkByEBPTb,38,2
 880,Tokusya-Seizon Wonder-la-der!! - Twilight ver.,2,2021-11-27,5v1KfdxeIDYoZuF22zMmA6,38,3
 881,BLUE CLAPPER - Twilight ver.,2,2021-11-27,1L3QPOHhABiMvNXhxnUisN,38,4
-882,Halloween Night, Tonight! - Twilight ver.,2,2021-11-27,4etuzYT4jbdZK4aL1AKRs0,38,5
-883,mayday,mayday - Twilight ver.,2,2021-11-27,3oR9hKZ6RWbptNuzq6yCPI,38,6
+882,"Halloween Night, Tonight! - Twilight ver.",2,2021-11-27,4etuzYT4jbdZK4aL1AKRs0,38,5
+883,"mayday,mayday - Twilight ver.",2,2021-11-27,3oR9hKZ6RWbptNuzq6yCPI,38,6
 884,Lioness' Pride - Twilight ver.,2,2021-11-27,5bouPlzUnqdMYhBwQnZYNt,38,7
 885,VIOLET - Twilight ver.,2,2021-11-27,5nw4ul3GOsve92yAC8Tgqo,38,8
 886,AsuiroClearSky - Twilight ver.,2,2021-11-27,3UBROEzD2GcqBwdaU39nUR,38,9
@@ -956,7 +956,7 @@ id,title,type,release_date,spotify_id,album_id,track_no
 955,Sad Sparks,2,2021-12-29,NULL,NULL,NULL
 956,Shishi Wata Cooking,0,2021-12-29,2Mars4BGtRkJvBuQ7gfs3o,41,0
 957,My song,0,2021-12-29,0yr6hIJDc2k2KcOLM4VhBz,41,10
-958,mayday,mayday,4,2021-12-29,2eHpfJRw93fB2Zl0uPxl9A,41,2
+958,"mayday,mayday",4,2021-12-29,2eHpfJRw93fB2Zl0uPxl9A,41,2
 959,Melody For You,4,2021-12-29,2WHJLOSzYJkFzpKWc7SgZT,41,3
 960,Everlasting Soul,4,2021-12-29,3oqeKhZonkNdPmELy521om,41,6
 961,To Makuhari Messe and Back!,0,2021-12-30,NULL,NULL,NULL
@@ -986,7 +986,7 @@ id,title,type,release_date,spotify_id,album_id,track_no
 985,Joy with You,0,2022-01-12,7eWE9sDC80OdpuuJrADZqc,43,2
 986,Nameless Sadness,0,2022-01-12,0fOryIaaJfUlbWh5noERKK,43,3
 987,Bare your teeth,0,2022-01-12,0mmWudXPwX054lZOZV4guE,43,4
-988,Sink again, Rise again,0,2022-01-12,4RneVPJKMleRDTMLfrPp3F,43,5
+988,"Sink again, Rise again",0,2022-01-12,4RneVPJKMleRDTMLfrPp3F,43,5
 989,Flower of hope,0,2022-01-12,0q07y6MBc2c08xDIbCWq9e,43,6
 990,Alibi Bunny,0,2022-01-12,3efHBRWuKRHIzhmBuacvLV,NULL,NULL
 991,DUDE RAP,0,2022-01-13,NULL,NULL,NULL
@@ -1062,7 +1062,7 @@ id,title,type,release_date,spotify_id,album_id,track_no
 1061,Hashire,1,2021-12-18,NULL,NULL,NULL
 1062,Aa Osaka dreamin'night,1,2020-06-29,NULL,NULL,NULL
 1063,Nihon no Mikata -Nevada Kara Kimashita-,1,2021-06-29,NULL,NULL,NULL
-1064,One more time,One more chance,1,2020-12-07,NULL,NULL,NULL
+1064,"One more time,One more chance",1,2020-12-07,NULL,NULL,NULL
 1065,Envy Baby,1,2021-03-27,NULL,NULL,NULL
 1066,Good-bye sengen,1,2021-04-24,NULL,NULL,NULL
 1067,Mela!,1,2021-06-06,NULL,NULL,NULL
@@ -1143,7 +1143,7 @@ id,title,type,release_date,spotify_id,album_id,track_no
 1142,Schema,1,2022-03-12,NULL,NULL,NULL
 1143,SOUZOU,1,2022-03-12,NULL,NULL,NULL
 1144,Q&A=E,0,2022-03-14,5yWMXS5Ma6SL50C05TJgW8,NULL,NULL
-1145,Please, darling,1,2022-03-15,NULL,NULL,NULL
+1145,"Please, darling",1,2022-03-15,NULL,NULL,NULL
 1146,YONA YONA DANCE,1,2022-03-15,NULL,NULL,NULL
 1147,Planet Loop,1,2022-03-15,NULL,NULL,NULL
 1148,GHOST,1,2022-03-08,NULL,NULL,NULL
@@ -1242,7 +1242,7 @@ id,title,type,release_date,spotify_id,album_id,track_no
 1241,Over Time,0,2022-05-02,76n7WTaSW7g4qksEomPSxf,NULL,NULL
 1242,Chimera,1,2022-05-04,NULL,NULL,NULL
 1243,Kakumei Dualism,1,2022-05-05,NULL,NULL,NULL
-1244,Dusk, Mistaking it for a Dream,1,2022-05-04,NULL,NULL,NULL
+1244,"Dusk, Mistaking it for a Dream",1,2022-05-04,NULL,NULL,NULL
 1245,Nano.,0,2022-05-09,NULL,NULL,NULL
 1246,Let Me Stay Here,0,2022-05-15,76xXQq2nPiexRDstB9MY70,NULL,NULL
 1247,Meteor Messenger,0,2022-05-12,NULL,NULL,NULL
@@ -1483,7 +1483,7 @@ id,title,type,release_date,spotify_id,album_id,track_no
 1482,Gravity,0,2022-08-30,6KrlBBgMuT2zamvrRZn8IK,NULL,NULL
 1483,Harmonia,1,2022-08-30,NULL,NULL,NULL
 1484,7:22,2,2022-08-13,NULL,NULL,NULL
-1485,Happy Birthday, Kaela,0,2022-08-30,NULL,NULL,NULL
+1485,"Happy Birthday, Kaela",0,2022-08-30,NULL,NULL,NULL
 1486,Phoenix,1,2022-08-30,NULL,NULL,NULL
 1487,Shiny Smily Story (2022 ver.),2,2022-08-31,3yPCSuup9ZmAvRuQZrKjC0,60,4
 1488,summertime,1,2022-08-31,NULL,NULL,NULL
@@ -1496,7 +1496,7 @@ id,title,type,release_date,spotify_id,album_id,track_no
 1495,Mogu Mogu YUMMY！ (POISONYA SYNDROME ver.),2,2022-09-06,2APCw2ZdDumK8vl6NZuBe8,61,1
 1496,Grrr Grrr Tummy,0,2022-09-06,7hmhbX4kitvMWFBjbj8YN2,61,2
 1497,PABO,0,2022-09-06,4kXLkL5kQUPMw7ujQTTO1t,61,4
-1498,adieu, Salauds (POISONYA SYNDROME ver.),2,2022-09-06,2epigikraWW6bYITYR62ls,61,5
+1498,"adieu, Salauds (POISONYA SYNDROME ver.)",2,2022-09-06,2epigikraWW6bYITYR62ls,61,5
 1499,Doku no Oujisama (POISONYA SYNDROME ver.),2,2022-09-06,5NhkRe0IhDIsYfHMGgU1d4,61,6
 1500,KAMISAMA・NEKOSAMA,0,2022-09-06,1L7LmsmcmYuapj5EIMzQjk,61,7
 1501,Swallow the venom (POISONYA SYNDROME ver.),2,2022-09-06,28jPf8rXTGbjvNFT9p3h93,61,8
@@ -1550,7 +1550,7 @@ id,title,type,release_date,spotify_id,album_id,track_no
 1549,Kapuine addiction,0,2022-09-30,38Y0baagSTmSKhkPSmGgYs,NULL,NULL
 1550,Kusare-gedou and Chocolate,1,2022-09-29,NULL,NULL,NULL
 1551,Snow Man,1,2022-09-29,NULL,NULL,NULL
-1552,Love me, Love me, Love me,1,2022-09-30,NULL,NULL,NULL
+1552,"Love me, Love me, Love me",1,2022-09-30,NULL,NULL,NULL
 1553,Last Sparkle,0,2022-09-30,4OXk1uiqFZygfC9H1JyE5T,NULL,NULL
 1554,flower,1,2022-10-01,NULL,NULL,NULL
 1555,Gira Gira,1,2022-10-01,NULL,NULL,NULL
