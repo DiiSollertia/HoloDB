@@ -127,7 +127,7 @@ id,title,type,release_date,spotify_id,album_id,track_no
 126,from A to Z,0,2019-07-01,6ATf4wXi52Cewd0BGpkmTW,NULL,NULL
 127,Moffu Moffu DE Yoinoja yo,1,2019-07-03,NULL,NULL,NULL
 128,Love Song,1,2019-07-08,NULL,NULL,NULL
-129,Don't say ""lazy"",1,2019-07-12,NULL,NULL,NULL
+129,"Don't say ""lazy""",1,2019-07-12,NULL,NULL,NULL
 130,Creating World (Jun Kuroda Remix),2,2019-07-17,NULL,NULL,NULL
 131,Remote Control,1,2019-07-19,NULL,NULL,NULL
 132,Gift,1,2019-07-20,NULL,NULL,NULL
