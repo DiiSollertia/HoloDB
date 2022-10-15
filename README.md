@@ -59,6 +59,7 @@ joexyz on Discord for advice on database schema
 All information was obtained from publically available resources, some of the more useful sites include the [official hololive production website](https://hololive.hololivepro.com/en/), [hololive fan wiki](https://hololive.wiki/wiki/Main_Page), [hololive fandom wiki](https://virtualyoutuber.fandom.com/wiki/Hololive), [Moe Girl Pedia](zh.moegirl.org.cn) etc. 
 
 ## Potential issues
-- Sensitive information in django files are not stored in environment variables
+- Sensitive information in django files are not stored in environment variables, git actions and production pipeline not set up yet
 - Unclear naming and definition conventions for `EVENTS`
 - Unclear definition for affiliated staff members under `TALENTS` (For example Ui-sensei has Live2D and a YouTube channel, does she qualify? Currently the stance is no.)
+- Official music distributions on YouTube Music are quite janky (one of the reasons why this project was started in the first place), eg. Sora's album `Dreaming!` has 2 generated playlists (`OLAK5uy_kfr2Wm5uAJIO4AzQE0yiH-xjFPfEVLsPM` and `OLAK5uy_md1Yy2OeEAOYkZI4pRdgmXU9glJ40ZDWA`), presumably due to YouTube later using official MVs instead of generating new ones if the MVs were published before album playlist generation
