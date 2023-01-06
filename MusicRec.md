@@ -16,7 +16,7 @@
 |Yuzuki Choco     |[Delusion Tax](https://youtu.be/n9DqvVNBdVI)                       |[ChocoLove](https://youtu.be/jlELf83gpBw)                                   |
 |Oozora Subaru    |[koi no mahou](https://youtu.be/t-Y-UnC2HQo)                       |[Pleiades!](https://youtu.be/RRsw5tT8BJI)                                   |
 |AZKi             |[Beyond the light](https://youtu.be/0LGn4esfu2M)                   |[Creating world](https://youtu.be/aqRIPFT-EUw)                              |
-|Ookami Mio       |[Sparkle](https://youtu.be/2l_6oIGTrbg)                            |[Howling](https://youtu.be/YPm9T622OX0)                                     |
+|Ookami Mio       |[Sparkle](https://youtu.be/2l_6oIGTrbg)                            |[Yakou Tsuushinn](https://youtu.be/eZWjYWcQ4Xo)                             |
 |Nekomata Okayu   |[flos](https://youtu.be/4muYzftomAE)                               |[Mogu Mogu YUMMY!](https://youtu.be/j6P_m6adkgc)                            |
 |Inugami Korone   |[Love Trial](https://youtu.be/G49bAinM6Lc)                         |[SAIKYO TENSAI WONDERFUL WORLD of KORONE](https://youtu.be/nks1I1sY53I)     |
 |Hanasaki Miyabi  |[Stickybug](https://youtu.be/STBJ_N3YLiw)                          |[Kaika Sengen](https://youtu.be/8cI76r7KvIs)                                |
@@ -65,13 +65,13 @@
 |Ceres Fauna      |[Hikaru Nara](https://youtu.be/U-9M-BjFYMc)                        |[Let Me Stay Here](https://youtu.be/0RMVJTLZOzQ)                            |
 |Ouro Kronii      |[Fly Me To The Moon](https://youtu.be/CEWQXuQxEIU)                 |[Daydream](https://youtu.be/6W749jRBg-4)                                    |
 |Nanashi Mumei    |[The Forgotten Song](https://youtu.be/P-bBKa8Bb_Q)                 |[A New Start](https://youtu.be/Py21QCndbxc)                                 |
-|Hakos Baelz      |[Hontou no Oto](https://youtu.be/AAwJ0_uqhb4)                      |[PLAY DICE](https://youtu.be/na6bysYNuS0)                                   |
+|Hakos Baelz      |[A Million Miles Away](https://youtu.be/YzS26Ao3vt8)               |[PLAY DICE](https://youtu.be/na6bysYNuS0)                                   |
 |La+ Darkness     |[God-ish](https://youtu.be/yTb_AvLchgY)                            |[Aien-Jihen](https://youtu.be/9Kjuzcwqou8)                                  |
 |Takane Lui       |[Love ka?](https://youtu.be/7jDkn2TzxJk)                           |[Overd](https://youtu.be/r7B5_4mkb5c)                                       |
 |Hakui Koyori     |[Nh-Uh-Uh.](https://youtu.be/R3OxEcOpT0M)                          |[WAO!!](https://youtu.be/Mt5SB2igQUM)                                       |
 |Sakamata Chloe   |[nisemono ningen40gou](https://youtu.be/dHGM8bZ0qfg)               |[Kagayakashi](https://youtu.be/NmVGKfz0MEs)                                 |
-|Kazama Iroha     |[Color of Drops](https://youtu.be/ANRmj96j1ew)                     |N/A                                                                         |
-|Vestia Zeta      |[Zankyosanka](https://youtu.be/wQ1_0oeXW6M)                        |[Happy Birthday, Kaela](https://youtu.be/oOrbDchZQVk)                       |
+|Kazama Iroha     |[Color of Drops](https://youtu.be/ANRmj96j1ew)                     |[Iroha Step](https://youtu.be/au57Syx7wuQ?t=3645)                           |
+|Vestia Zeta      |[Zankyosanka](https://youtu.be/wQ1_0oeXW6M)                        |[i want my coffee](https://youtu.be/eXmxwOGo9mY)                            |
 |Kaela Kovalskia  |[Phoenix](https://youtu.be/MRg1OuBU_i8)                            |N/A                                                                         |
 |Kobo Kanaeru     |[Renai Circulation](https://youtu.be/zzDtTiE71q0?t=1210)           |[Mantra Hujan](https://youtu.be/SF-_47-oCtk)                                |
 |Yatogami Fuma    |[SHANTI](https://youtu.be/6VAC-LmZ2-E)                             |[infection](https://youtu.be/LrYbhOOS_yo)                                   |
@@ -79,6 +79,6 @@
 |Hizaki Gamma     |[Ikenai Taiyo](https://youtu.be/MRLLownLhuU)                       |N/A                                                                         |
 |Minase Rio       |[I wanted to dance in your pulse](https://youtu.be/pnKRl9KuTeU)    |N/A                                                                         |
 |Regis Altare     |[Heartache](https://youtu.be/KS6NYbx6Rp4)                          |N/A                                                                         |
-|Magni Dezmond    |N/A                                                                |N/A                                                                         |
+|Magni Dezmond    |[Escape From The City](https://youtu.be/yhz2uQJDY30)               |N/A                                                                         |
 |Axel Syrios      |[Unaware Drunkard](https://youtu.be/UvSKHYzB82M)                   |N/A                                                                         |
-|Noir Vesper      |N/A                                                                |N/A                                                                         |
+|Noir Vesper      |[Bad ∞ End ∞ Night](https://youtu.be/wFTSE4h4SSs)                  |N/A                                                                         |
